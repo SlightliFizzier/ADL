@@ -1,0 +1,19 @@
+{
+    "id": 66085306,
+    "name": "DARKENED",
+    "author": "BIANOX",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://www.youtube.com/watch?v=--s4fh5JFWw",
+    "showcase": "https://www.youtube.com/watch?v=jhMi7YXkB40",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/MqFX799mgBE?si=6nrT2DNEbV9aZ4zJ",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

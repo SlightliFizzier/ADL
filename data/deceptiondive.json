@@ -1,0 +1,49 @@
+{
+    "id": 34379100,
+    "name": "Deception Dive",
+    "author": "Rustam",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/aj7ROWvhUfQ?si=aY-jPBaQ_zTJ00pX",
+    "showcase": "https://youtu.be/jJIcx44_4-8?si=pOsCNExYsWoywc5Y",
+    "percentToQualify": 100,
+    "password": "635897",
+    "records": [
+        {
+            "user": "Frost",
+            "link": "https://youtu.be/bGVOX54LD_Q?si=SAYj24GAlt9e2rhQ",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/wdg5JSLp6Qs?si=q_RMKKwPRi2j3DER",
+            "percent": 100,
+            "fps": 300
+        },
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/FaPI7lvpuww?si=gVM-uTViLRw3tzD4",
+            "percent": 100,
+            "fps": 60
+        },
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/4HtdPxZ49MM?si=_7yVrKz1csJnJJWL",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "vitamin227",
+            "link": "https://youtu.be/4PdOFx_YX44?si=mbwm2Q2rs9SsPj-7",
+            "percent": 100,
+            "fps": 144
+        },
+        {
+            "user": "zMMNC",
+            "link": "https://youtu.be/g3wtDjCRf1s?si=PCUdpEglvCYcahkU",
+            "percent": 100,
+            "fps": 300
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 25610878,
+    "name": "aftermath",
+    "author": "Exenity",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/52uAnUmd3gI?si=Znzy9QRWyjPu0xg7",
+    "showcase": "https://youtu.be/0bHfKN_lnV8?si=3Tgak9WGlgG7kGei",
+    "percentToQualify": 100,
+    "password": "123985",
+    "records": [
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/A_kgddAw3sg?si=sXrC2aRfaZlI5hjs",
+            "percent": 100,
+            "fps": 60
+        },
+        {
+            "user": "Frost",
+            "link": "https://youtu.be/A_QDzj5ABJI?si=hInplfbgH1gE-jyU",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/mr_sll-xFZc?si=upPOupQ5C5s4c9Qi",
+            "percent": 100,
+            "fps": 300
+        },
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/NXvKrGzBtck?si=Sv9yPLnT81FsFMpr",
+            "percent": 100,
+            "fps": 60
+        },
+        {
+            "user": "Lucky3Jumps",
+            "link": "https://youtu.be/1-VwSARTL_g?si=6nHxw5SKu55BQCZ_",
+            "percent": 100,
+            "fps": 165
+        },
+        {
+            "user": "vitamin227",
+            "link": "https://youtu.be/uz0UR7DcApk?si=lwHQyh4mPSAs1Y3U",
+            "percent": 100,
+            "fps": 144
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": 62100870,
+    "name": "Alpha Baa X",
+    "author": "Failure444",
+    "creators": [],
+    "verifier": "Chubs Dubs",
+    "verification": "https://youtu.be/Z50JtIjyJXo?si=FNWQErAnXZvhUwKu",
+    "showcase": "https://youtu.be/6JT2WKQ4aFc?si=zk3TpzEd6mPY6vR9",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/T4aRRXa8vCM?si=N_g7MAfjlTvO-TDv",
+            "percent": 100,
+            "fps": 144
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": 21604884,
+    "name": "Cosmorush 21",
+    "author": "Pennutoh",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/MPRAG60bBVY?si=9pbAExVeFfWAnSrq",
+    "showcase": "https://youtu.be/kecIs-61WOo?si=eABKUeb_BFwZCikY",
+    "percentToQualify": 100,
+    "password": "170217",
+    "records": [
+        
+      {
+            "user": "Frost",
+            "link": "https://youtu.be/YAF53bR8GhQ?si=7mjHIm6TCN31ApRF",
+            "percent": 100,
+            "fps": 360
+      },
+      {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/HvmDRIo17nQ?si=i2Nm7j6SHi4Yobce",
+            "percent": 100,
+            "fps": 240
+      },
+      {
+            "user": "vitamin227",
+            "link": "https://youtu.be/wLeNhn8-7Xg?si=Q7Vn9FDP64GjR-K_",
+            "percent": 100,
+            "fps": 144
+      }
+   ] 
+}

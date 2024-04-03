@@ -1,0 +1,19 @@
+{
+    "id": 52919433,
+    "name": "Arctic Lights",
+    "author": "metalface221",
+    "creators": [],
+    "verifier": "SilverDynamix",
+    "verification": "https://youtu.be/HrX57MuuEZY?si=cYehp87zCpYxXblo",
+    "showcase": "https://youtu.be/XIr19lJGK-o?si=49CJzR4xD_ABJCGl",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/V0we8-gjSXs?si=5iYaTl2djmxNT5uk",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": 10565740,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/F9lonAoXawQ?si=jnQ_5xdHT_gXDiFo",
+    "showcase": "https://youtu.be/N7-QULDytJE?si=edTcxlhf5KQ887BT",
+    "percentToQualify": 100,
+    "password": "-",
+    "records": [
+        {
+            "user": "Frost",
+            "link": "https://youtu.be/8MKQIV_wnnM?si=f2XxuQ7w39FINLkB",
+            "percent": 100,
+            "fps": 240
+        },
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/d-rAYL86YX0?si=XegoO4D9_UxEJ0P5",
+            "percent": 100,
+            "fps": 60
+        },
+        {
+            "user": "JoKawuu",
+            "link": "https://youtu.be/ttUlSmEkS9g?si=uUheYf21at023sgh",
+            "percent": 100,
+            "fps": 240
+        },
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/n7NK4P8oSbs?si=UdeoDPnGQyY46KQO",
+            "percent": 100,
+            "fps": 300
+        },
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/ruRHxFKX30o?si=rPvqKo3KSLq8bSh5",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "Ankyn",
+            "link": "https://youtu.be/ttUlSmEkS9g?si=uUheYf21at023sgh",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "vitamin227",
+            "link": "https://youtu.be/IgTrsjqKxrY?si=4HMvjzszV25BDtIL",
+            "percent": 100,
+            "fps": 144
+        }
+    ]
+}

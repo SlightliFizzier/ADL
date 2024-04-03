@@ -1,0 +1,19 @@
+{
+    "id": 69010770,
+    "name": "Dark Odyssey",
+    "author": "JonathanGD",
+    "creators": [],
+    "verifier": "Lucky3Jumps",
+    "verification": "https://youtu.be/kCNXwrYnPng?si=_nhhBl9aLmTP4sDo",
+    "showcase": "https://youtu.be/le10Vvapvh0?si=qTA-knz9hG1yUlSU",
+    "percentToQualify": 100,
+    "password": "693041",
+    "records": [
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/xaIMFCDmnrw?si=ukrNvl3ANw7G2953",
+            "percent": 100,
+            "fps": 480
+        }
+    ]
+}

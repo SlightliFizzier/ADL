@@ -1,0 +1,19 @@
+{
+    "id": 27908448,
+    "name": "Artificial Ideology",
+    "author": "TeamN2",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/sX9AwXg6ZvE?si=ovU8eDvcroVpK3aX",
+    "showcase": "https://youtu.be/7uyDl1b0BAY?si=3sYslXDDKCvKwJO2",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "SilverDynamix",
+            "link": "https://www.youtube.com/watch?v=TEWTvz4VtNc",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

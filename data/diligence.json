@@ -1,0 +1,19 @@
+{
+    "id": 62419473,
+    "name": "Diligence",
+    "author": "Davphla",
+    "creators": [],
+    "verifier": "Fizzi",
+    "verification": "https://youtu.be/DGcP3vkDbVI?si=Z6FC_bS7mnHTNqx9&t=278",
+    "showcase": "https://youtu.be/6AYrjcHNu5E?si=uiccLuVnr0AvZEBv",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/vD3tAX3YLY4?si=hTnzeSFm764w52ad",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

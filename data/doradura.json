@@ -1,0 +1,19 @@
+{
+    "id": 77114615,
+    "name": "doradura",
+    "author": "IvashkaUA",
+    "creators": [],
+    "verifier": "Fizzi",
+    "verification": "https://youtu.be/UlSbNaksYkI?si=FvvSgz-n62bP9oTg",
+    "showcase": "https://youtu.be/o6EQznnQjwM?si=uYbuZK1wwHT3L1_G",
+    "percentToQualify": 100,
+    "password": "228228",
+    "records": [
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/e3-Q6gf06xA?si=Y-IKw9-dklP__Cj8",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": 26133601,
+    "name": "Athanatos",
+    "author": "Exenity",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/90a3H74Ii0k?si=dbocqhgbKluEz3Uw",
+    "showcase": "https://youtu.be/iQ57vcTX5Zc?si=Q9ENDWdO1pJ1r-xW",
+    "percentToQualify": 100,
+    "password": "666669",
+    "records": [
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/wpdg-z8Wmt0?si=XxLYWlp6vn38jDBQ",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id": 61079355,
+    "name": "Acu",
+    "author": "neigefeu",
+    "creators": [],
+    "verifier": "Frost",
+    "verification": "https://www.youtube.com/watch?v=Z84MtW8T2N0",
+    "showcase": "https://www.youtube.com/watch?v=qTE6hE1a_vU",
+    "percentToQualify": 100,
+    "password": "121296",
+    "records": [
+        {
+            "user": "Chubs Dubs",
+            "link": "https://www.youtube.com/watch?v=Qpf6_obiPZ0",
+            "percent": 100,
+            "fps": 60
+        },
+      {
+            "user": "Fizzi",
+            "link": "https://www.youtube.com/watch?v=XzRNB-0btvQ",
+            "percent": 100,
+            "fps": 75
+        },
+      {
+            "user": "SilverDynamix",
+            "link": "https://www.youtube.com/watch?v=ecam6HKvnFI",
+            "percent": 100,
+            "fps": 60
+        },
+      {
+            "user": "zMMNC",
+            "link": "https://www.youtube.com/watch?v=c0Xz320v6gw",
+            "percent": 100,
+            "fps": 300
+        },
+      {
+            "user": "Lucky3Jumps",
+            "link": "https://www.youtube.com/watch?v=0rH17r5s1H0",
+            "percent": 100,
+            "fps": 60
+        },
+      {
+            "user": "vitamin227",
+            "link": "https://www.youtube.com/watch?v=vJPqPymUalw",
+            "percent": 100,
+            "fps": 144
+        },
+      {
+            "user": "opt1ss",
+            "link": "https://www.youtube.com/watch?v=bzKPkwwfuWY",
+            "percent": 100,
+            "fps": 60
+        },
+      {
+            "user": "Hynamite",
+            "link": "https://www.youtube.com/watch?v=SB769B_i4xY",
+            "percent": 100,
+            "fps": 60
+        },
+      {
+            "user": "Kapinapi",
+            "link": "https://www.youtube.com/watch?v=3kiTfGNunsY",
+            "percent": 100,
+            "fps": 144
+        },
+      {
+            "user": "Lantern",
+            "link": "https://www.youtube.com/watch?v=ttUlSmEkS9g",
+            "percent": 100,
+            "fps": 360
+        },
+      {
+            "user": "Tuunber",
+            "link": "https://www.youtube.com/watch?v=ttUlSmEkS9g",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

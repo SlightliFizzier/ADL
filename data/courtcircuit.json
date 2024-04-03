@@ -1,0 +1,19 @@
+{
+    "id": 89976481,
+    "name": "court circuit",
+    "author": "Fafenel",
+    "creators": [],
+    "verifier": "SilverDynamix",
+    "verification": "https://youtu.be/3lelSYI_82Q?si=2mRL1oRKjuuOmMMP",
+    "showcase": "https://youtu.be/xA0J2cZsKwQ?si=0ypXqaWAKEXOKC2m",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/WGTXk00xR-Q?si=nd0d_Kz_Eb_uN1TK",
+            "percent": 100,
+            "fps": 144
+        }
+    ]
+}

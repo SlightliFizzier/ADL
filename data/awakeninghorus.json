@@ -1,0 +1,43 @@
+{
+    "id": 39458641,
+    "name": "Awakening Horus",
+    "author": "Juhou",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/-AUu4u2gc9I?si=qameNPcajDImleMu",
+    "showcase": "https://youtu.be/rrFq7Qm5JCc?si=TR2wdh6S4hoxlkrd",
+    "percentToQualify": 100,
+    "password": "789456",
+    "records": [
+        {
+            "user": "Hynamite",
+            "link": "https://youtu.be/bbFWSglc_kI?si=xxyjo5RB0il2vNYn",
+            "percent": 100,
+            "fps": 60
+        },
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/RAmsDuBdXLU?si=Ebl6aeqvzsiebcn-",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "vitamin227",
+            "link": "https://youtu.be/ksuZdQ9Ie00?si=-dmsen71yYELm23i",
+            "percent": 100,
+            "fps": 144
+        },
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/TedrOhmTJ0I?si=vBNmv2UcyArMktjw",
+            "percent": 100,
+            "fps": 60
+        },
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/gJDp2gALYKk?si=BZBbWpvNhSZpjJGp",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

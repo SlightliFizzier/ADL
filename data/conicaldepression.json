@@ -1,0 +1,19 @@
+{
+    "id": 17711004,
+    "name": "Conical Depression",
+    "author": "KrmaL",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/cum4KdP7JJk?si=fyGQRwzWuDda7-i_",
+    "showcase": "https://youtu.be/yub12mIMcH4?si=AZCKMZseKWP1bBX_",
+    "percentToQualify": 100,
+    "password": "000000",
+    "records": [
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/Equ5dE8r7Uo?si=XBTXynjrmVrIB9q9",
+            "percent": 100,
+            "fps": 60
+        }
+    ]
+}

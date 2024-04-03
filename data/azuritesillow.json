@@ -1,0 +1,49 @@
+{
+    "id": 62214792,
+    "name": "Azurite",
+    "author": "Sillow",
+    "creators": [],
+    "verifier": "Fizzi",
+    "verification": "https://youtu.be/GjnLvjRb0vg?si=pkcRD16xm2QUpZUU",
+    "showcase": "https://youtu.be/P30Z0-ZHFgY?si=k-qmaD21I7dJLipV",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "opt1ss",
+            "link": "https://youtu.be/rCDwJ0h2zZA?si=0IRFQuAyl0U-ffx5",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/R9QrOqnsKIU?si=SYLFyW917XO3D1KL",
+            "percent": 100,
+            "fps": 60
+        },
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/Iyt6EfHGLYk?si=-_rpmmDzVrMVcoWa",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "vitamin227",
+            "link": "https://youtu.be/ckhQJ5fSwsI?si=8_5GS_S2Rd5ehIi2",
+            "percent": 100,
+            "fps": 144
+        },
+        {
+            "user": "Lucky3Jumps",
+            "link": "https://youtu.be/sqnv8mF3kjE?si=oYY_q73VxBC5hPRd",
+            "percent": 100,
+            "fps": 165
+        },
+        {
+            "user": "lantern",
+            "link": "https://youtu.be/IsXPyoYQJQw?si=MQTW4WnGUsVKNHO4",
+            "percent": 100,
+            "fps": 240
+        }
+    ]
+}

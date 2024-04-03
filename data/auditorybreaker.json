@@ -1,0 +1,37 @@
+{
+    "id": 51791710,
+    "name": "Auditory Breaker",
+    "author": "LazerBlitz",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://www.youtube.com/watch?v=U4J-Ol7sF1Q",
+    "showcase": "https://www.youtube.com/watch?v=5YVph5S-Vxc",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Frost",
+            "link": "https://youtu.be/f8wXqJnD4MI?si=3wg6f9JaXt2JhZyK",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/maIG5qwgSxg?si=Nqqxun4TnQ3Xhxdr",
+            "percent": 100,
+            "fps": 60
+        },
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/Ic4Q4kXFLq8?si=sW3x2L8HaUe1fd8Z",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/LsYIUmko27k?si=BvVMtnRCl3eO1xmQ",
+            "percent": 100,
+            "fps": 288
+        }
+    ]
+}

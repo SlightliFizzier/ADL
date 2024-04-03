@@ -1,0 +1,31 @@
+{
+    "id": 57559425,
+    "name": "Concaved Memories",
+    "author": "CairoX",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://www.youtube.com/watch?v=DiC9BGgRD_A",
+    "showcase": "https://www.youtube.com/watch?v=RB3Snc94SGg",
+    "percentToQualify": 100,
+    "password": "341269",
+    "records": [
+        {
+            "user": "vitamin227",
+            "link": "https://youtu.be/_vy01E3H4MI?si=QSFv-frmsbZSYbUw",
+            "percent": 100,
+            "fps": 144
+        },
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/GL8HF5KN05E?si=SKyWxjhh1pJ0bMdp",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/AL72Xs_ipJA?si=qB_dsOhVo_WFj7k4",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

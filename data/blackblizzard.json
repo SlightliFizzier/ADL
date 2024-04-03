@@ -1,0 +1,37 @@
+{
+    "id": 34057654,
+    "name": "Black Blizzard",
+    "author": "KrmaL",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://www.youtube.com/watch?v=FCrdwk6joV0",
+    "showcase": "https://www.youtube.com/watch?v=dApO4cKABN8",
+    "percentToQualify": 100,
+    "password": "000006",
+    "records": [
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/LFMgBQPnbwE?si=V4y74ZpOUU931Exz",
+            "percent": 100,
+            "fps": 60
+        },
+        {
+            "user": "Lucky3Jumps",
+            "link": "https://youtu.be/UtGO-R7XA4Y?si=8nFKNR0WwxfCorys",
+            "percent": 100,
+            "fps": 60
+        },
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/PJokNf1JteY?si=KPE9DQQOzKB57CCj",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "lantern",
+            "link": "https://youtu.be/M_QCV3hfK6o?si=dzVvAkiZHxcWewRP",
+            "percent": 100,
+            "fps": 240
+        }
+    ]
+}
