@@ -1,0 +1,19 @@
+{
+    "id": 59539361,
+    "name": "Eternal Moment",
+    "author": "Rainstorm",
+    "creators": [],
+    "verifier": "Chubs Dubs",
+    "verification": "https://youtu.be/T1EyJw99uGs?si=MXsIu71Rk4blk3mF",
+    "showcase": "https://youtu.be/6n_n1w4QD4s?si=JBupMNBjvVekZ9Ge",
+    "percentToQualify": 100,
+    "password": "086400",
+    "records": [
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/BCe62zV7Dgs",
+            "percent": 100,
+            "fps": 288
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 89190831,
+    "name": "Heart Attack",
+    "author": "Derpskull",
+    "creators": [],
+    "verifier": "Fizzi",
+    "verification": "https://youtu.be/CNnmjYNh55Q?si=XPHelY8YcvdDeFsM",
+    "showcase": "https://youtu.be/mAEM8Cj_LhI?si=ogqluPeNq0ch4VeQ",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/zKKoAzg8MEc?si=sAp6CYTPHFZI3xW4",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/OuZF0VqBcek?si=577Y9iqjNCorYLgO",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

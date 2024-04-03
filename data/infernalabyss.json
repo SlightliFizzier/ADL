@@ -1,0 +1,19 @@
+{
+    "id": 27379546,
+    "name": "Infernal Abyss",
+    "author": "Ggb0y",
+    "creators": [],
+    "verifier": "Fizzi",
+    "verification": "https://youtu.be/fMBeGLCGEFo?si=gm89MEBNA0GZfxl-",
+    "showcase": "https://youtu.be/TTIzBCMMPho?si=9ObM97vBoMFItF6q",
+    "percentToQualify": 100,
+    "password": "000066",
+    "records": [
+        {
+            "user": "vitamin227",
+            "link": "https://youtu.be/aJTouR26mwI?si=iW3p6zp9YVFCG0eE",
+            "percent": 100,
+            "fps": 144
+        }
+    ]
+}

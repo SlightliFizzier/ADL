@@ -1,0 +1,19 @@
+{
+    "id": 56703691,
+    "name": "Ouroboros",
+    "author": "ViPriN",
+    "creators": [],
+    "verifier": "SilverDynamix",
+    "verification": "https://youtu.be/7hSNY67Tlwg?si=vx6N5fbJrtS7K9f4",
+    "showcase": "https://youtu.be/JMkGGYtUAKM?si=U9JjJjJTwRQv0YIX",
+    "percentToQualify": 100,
+    "password": "072619",
+    "records": [
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/EaN2Wo0SxMM?si=dOFl2Ni0GGAMhAuY",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

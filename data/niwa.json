@@ -1,0 +1,25 @@
+{
+    "id": 87425029,
+    "name": "niwa",
+    "author": "Teno",
+    "creators": [],
+    "verifier": "Hynamite",
+    "verification": "https://youtu.be/kRc-zGTyKWQ?si=NuDJGQ3Y_aDiRqpP",
+    "showcase": "https://youtu.be/WRkyCBhWTEs?si=J-sepRgjz9IuszsG",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/nPm64Q6hTv0?si=RQy5rcM6ZrHmRWQZ",
+            "percent": 100,
+            "fps": 144
+        },
+        {
+            "user": "SilverDynamix",
+            "link": "https://www.youtube.com/watch?v=dsG_Dtk3Qzc",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

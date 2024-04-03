@@ -1,0 +1,19 @@
+{
+    "id": 75518661,
+    "name": "Make It Drop",
+    "author": "Ryamu",
+    "creators": [],
+    "verifier": "SilverDynamix",
+    "verification": "https://youtu.be/po44CiThmQA?si=ihPlbfKjxDxkeAiP",
+    "showcase": "https://youtu.be/hjs33lHLC4c?si=k17OUY_yhRlesxVu",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/YaU_vGR9WO8?si=fjWgEMJmtCLgQnkl",
+            "percent": 100,
+            "fps": 288
+        }
+    ]
+}

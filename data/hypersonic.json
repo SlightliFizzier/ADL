@@ -1,0 +1,55 @@
+{
+    "id": 30219145,
+    "name": "HyperSonic",
+    "author": "ViPriN",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://www.youtube.com/watch?v=ACNMlw6Sv_A",
+    "showcase": "https://www.youtube.com/watch?v=yFwPswAfvqw",
+    "percentToQualify": 100,
+    "password": "No Copy",
+    "records": [
+      {
+            "user": "LucaTheGamer",
+            "link": "https://www.youtube.com/watch?v=zRv3oEbsMtM",
+            "percent": 100,
+            "fps": 60
+        },
+      {
+            "user": "Fizzi",
+            "link": "https://www.youtube.com/watch?v=J0nQJFBnxi8",
+            "percent": 100,
+            "fps": 75
+        },
+      {
+            "user": "Hynamite",
+            "link": "https://www.youtube.com/watch?v=mv_TJifKAK8",
+            "percent": 100,
+            "fps": 60
+        },
+       {
+            "user": "vitamin227",
+            "link": "https://www.youtube.com/watch?v=BaZcDXZnqTE",
+            "percent": 100,
+            "fps": 144
+        },
+       {
+            "user": "Lucky3Jumps",
+            "link": "https://www.youtube.com/watch?v=liqWnSMXnh0",
+            "percent": 100,
+            "fps": 60
+        },
+        {
+            "user": "SilverDynamix",
+            "link": "https://www.youtube.com/watch?v=bH9WNVJ3HDk",
+            "percent": 100,
+            "fps": 240
+        },
+       {
+            "user": "Chubs Dubs",
+            "link": "https://www.youtube.com/watch?v=SU_5ENbP02Q",
+            "percent": 100,
+            "fps": 60
+        }
+    ]
+}

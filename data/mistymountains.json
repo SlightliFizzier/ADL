@@ -1,0 +1,31 @@
+{
+    "id": 60708767,
+    "name": "Misty Mountains",
+    "author": "We4therMan",
+    "creators": [],
+    "verifier": "Fizzi",
+    "verification": "https://youtu.be/PuYnqLM5Fv4?si=pEFVpSkJ8MTnBYS2",
+    "showcase": "https://youtu.be/IXgbUj8tlVg?si=AM2G2RWZnbfFNEj9",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/ZlqEaGEQVOM?si=biS6NpvDOu0VZ7kT",
+            "percent": 100,
+            "fps": 60
+        },
+        {
+            "user": "Lucky3Jumps",
+            "link": "https://youtu.be/KnqxMK5go44?si=GjNSBAheR7EzhT5A",
+            "percent": 100,
+            "fps": 60
+        },
+        {
+            "user": "Hynamite",
+            "link": "https://youtu.be/wAkCLXTNCTc?si=p4yeCMOO9EXA6cJ1",
+            "percent": 100,
+            "fps": 60
+        }
+    ]
+}

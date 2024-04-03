@@ -1,0 +1,25 @@
+{
+    "id": 68848817,
+    "name": "moment",
+    "author": "lexycat",
+    "creators": [],
+    "verifier": "JoKawuu",
+    "verification": "https://youtu.be/kwfWvA8zGGU?si=MYce5KU9tdPskW5e",
+    "showcase": "https://youtu.be/OcnjfzdMVgM?si=euXilUMJTwiM6evB",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/LbuOGj_AqvU?si=C7jEd54pGP8BOPnr",
+            "percent": 100,
+            "fps": 288
+        },
+        {
+            "user": "lantern",
+            "link": "https://youtu.be/ttUlSmEkS9g?si=uUheYf21at023sgh",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

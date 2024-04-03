@@ -1,0 +1,19 @@
+{
+    "id": 33748382,
+    "name": "Novalis",
+    "author": "Gryllex",
+    "creators": [],
+    "verifier": "SilverDynamix",
+    "verification": "https://youtu.be/GJ-prgHCCLo?si=9xKfcg5Hr7kfrYJh",
+    "showcase": "https://youtu.be/MrPzK0ybZtU?si=NHRz_Bqb4jfVA4UI",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Kapinapi",
+            "link": "https://youtu.be/odY2lv0QL-c?si=iyTSkgkLJxMNWM49",
+            "percent": 100,
+            "fps": 144
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 52527538,
+    "name": "MELTDOWN",
+    "author": "Darwin",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/UiPdoPf228k?si=ycAxVG_RPVEoLjUg",
+    "showcase": "https://youtu.be/IUsUWRfOyHE?si=vnT5zhQGoHhXBgEI",
+    "percentToQualify": 100,
+    "password": "425069",
+    "records": [
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/4FFtBgF50SI?si=6Yw6Z8ps6aTmIdIA",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "vitamin227",
+            "link": "https://youtu.be/mIM0vlxU1Hw?si=oRUA5S-o89Xk-lpD",
+            "percent": 100,
+            "fps": 144
+        }
+    ]
+}

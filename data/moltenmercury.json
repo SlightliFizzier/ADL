@@ -1,0 +1,19 @@
+{
+    "id": 64066032,
+    "name": "Molten Mercury",
+    "author": "ItsHybrid",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/X8FcOkvi4SU?si=0qyDDCtyNlJJBvQF",
+    "showcase": "https://youtu.be/W1JmS9fEE4Q?si=PUCibLe9aiDOwNnB",
+    "percentToQualify": 100,
+    "password": "251326",
+    "records": [
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/ttUlSmEkS9g?si=uUheYf21at023sgh",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

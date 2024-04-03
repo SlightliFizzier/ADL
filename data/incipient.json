@@ -1,0 +1,37 @@
+{
+    "id": 32688321,
+    "name": "Incipient",
+    "author": "Jenkins",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/tORir0ORaMg?si=U8hAcNb8LTZUTi-L",
+    "showcase": "https://youtu.be/vyFQknvssnI?si=LZ6sQ3JjrShNtq3r",
+    "percentToQualify": 100,
+    "password": "420420",
+    "records": [
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/oHMYQDO3kus?si=n6wG_rACLsUFXG19",
+            "percent": 100,
+            "fps": 300
+        },
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/GsAP8qlmlQ8?si=BsZS57zyH2yFq2M7",
+            "percent": 100,
+            "fps": 60
+        },
+        {
+            "user": "Hynamite",
+            "link": "https://youtu.be/8ojaS6f27ac?si=hJXVhY2zkGlRTfRk",
+            "percent": 100,
+            "fps": 60
+        },
+        {
+            "user": "vitamin227",
+            "link": "https://youtu.be/TiyZKv0ocmw?si=wecofq_5Ghq_kAAm",
+            "percent": 100,
+            "fps": 144
+        }
+    ]
+}

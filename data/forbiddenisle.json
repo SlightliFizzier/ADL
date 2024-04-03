@@ -1,0 +1,37 @@
+{
+    "id": 63775846,
+    "name": "Forbidden Isle",
+    "author": "Sillow",
+    "creators": [],
+    "verifier": "Frost",
+    "verification": "https://youtu.be/6mBIc_7-tU4?si=EZvT-UfsJGMs8plG",
+    "showcase": "https://youtu.be/su7p9rT3JB4?si=ShNC3RtY30DU2IVA",
+    "percentToQualify": 100,
+    "password": "111111",
+    "records": [
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/_SJCrk8PrHk?si=AN86RZT-BQtFwC9C",
+            "percent": 100,
+            "fps": 300
+        },
+        {
+            "user": "Kapinapi",
+            "link": "https://youtu.be/dXEmc9o6JPE?si=WKfpT7JaZLHoYEew",
+            "percent": 100,
+            "fps": 144
+        },
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/AEV0bQaBCx8?si=P5VPb8x9EzER4Lwf",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/F5CLiPylYeQ?si=MvzCjnBwsKBXTb-4",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

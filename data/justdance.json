@@ -1,0 +1,25 @@
+{
+    "id": 60257058,
+    "name": "Just DANCE",
+    "author": "Texic",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/FZBB1QgDE-Y",
+    "showcase": "https://youtu.be/sSVn68519mM?si=0-clplAkAUKeadCn",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/jUmW3ZlddYY?si=Sm07v1WvDS9yLxn9",
+            "percent": 100,
+            "fps": 288
+        },
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/ttUlSmEkS9g?si=tSuJqv7M5wQnWooM",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": 36449129,
+    "name": "NecropoliX",
+    "author": "Namtar",
+    "creators": [],
+    "verifier": "SilverDynamix",
+    "verification": "https://www.youtube.com/watch?v=-ST7D8xrGBg",
+    "showcase": "https://www.youtube.com/watch?v=Jr7GxnoFkIw",
+    "percentToQualify": 100,
+    "password": "437643",
+    "records": [
+      {
+            "user": "vitamin227",
+            "link": "https://www.youtube.com/watch?v=LP2eYKFaGBo",
+            "percent": 100,
+            "fps": 144
+        }
+    ]
+}

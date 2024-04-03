@@ -1,0 +1,19 @@
+{
+    "id": 61531210,
+    "name": "Hyper Paradox",
+    "author": "ItsHybrid",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://www.youtube.com/watch?v=ucmMMjeTOjc",
+    "showcase": "https://www.youtube.com/watch?v=z9uDRDRdutM",
+    "percentToQualify": 100,
+    "password": "251326",
+    "records": [
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/5jwsDOdvjxU?si=46MM-dNp8zMHld9p",
+            "percent": 100,
+            "fps": 288
+        }
+    ]
+}

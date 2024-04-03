@@ -1,0 +1,37 @@
+{
+    "id": 8147005,
+    "name": "Down Bass",
+    "author": "Spectruh",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/D8DV2WIlGMA?si=ps8fY41eUibUALlE",
+    "showcase": "https://youtu.be/gyRjfhKYQeU?si=2JiM7Hz-_OtjdKgU",
+    "percentToQualify": 100,
+    "password": "071100",
+    "records": [
+        {
+            "user": "Frost",
+            "link": "https://youtu.be/Q0VZ2kqojfY?si=OPqgiBF1xmeuGSIN",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/gHVv3S5IAhs?si=F-CltDxB5sADSZSU",
+            "percent": 100,
+            "fps": 60
+        },
+        {
+            "user": "Ankyn",
+            "link": "https://youtu.be/ttUlSmEkS9g?si=uUheYf21at023sgh",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/uesIs_Dq8NI?si=X5J2Sath730Bob9e",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

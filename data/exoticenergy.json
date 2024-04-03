@@ -1,0 +1,19 @@
+{
+    "id": 57312412,
+    "name": "Exotic Energy",
+    "author": "Ellisha",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/6Z-OBeyujWs?si=rZZiDjPbbGjvmPAM",
+    "showcase": "https://youtu.be/syZdlQlWK2I?si=46IL2UjCVEp1yAQX",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "vitamin227",
+            "link": "https://youtu.be/tNoYfsoupQc?si=FwmXIc3rBMj6y7UL",
+            "percent": 100,
+            "fps": 144
+        }
+    ]
+}

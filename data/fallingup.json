@@ -1,0 +1,19 @@
+{
+    "id": 24301797,
+    "name": "Falling Up",
+    "author": "KrmaL",
+    "creators": [],
+    "verifier": "Chubs Dubs",
+    "verification": "https://youtu.be/GI4OhL-ILk4?si=6OFb1dbbN0hBe_0S",
+    "showcase": "https://youtu.be/dsyvbmz1Yls?si=bJbj4_YfDxoWZRgN",
+    "percentToQualify": 100,
+    "password": "000004",
+    "records": [
+        {
+            "user": "Kapinapi",
+            "link": "https://youtu.be/j1Q5BL8Bn2c?si=qJuir-IF7bdK-rxG",
+            "percent": 100,
+            "fps": 144
+        }
+    ]
+}
