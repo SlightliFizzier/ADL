@@ -1,0 +1,19 @@
+{
+    "id": 73005068,
+    "name": "sunburn",
+    "author": "pocke",
+    "creators": [],
+    "verifier": "Lucky3Jumps",
+    "verification": "https://www.youtube.com/watch?v=nkWKX1fyzbo",
+    "showcase": "https://www.youtube.com/watch?v=zMELXnblBG4",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/ttUlSmEkS9g?si=uUheYf21at023sgh",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

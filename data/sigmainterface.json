@@ -1,0 +1,31 @@
+{
+    "id": 62551239,
+    "name": "Sigma Interface",
+    "author": "Platnuu",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/GSkSE4UKo3A?si=6YqICgHa6FWYFTDX",
+    "showcase": "https://youtu.be/QE3oVDW-jUM?si=c8ozW-a_y_jyHldo",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "SilverDynamix",
+            "link": "https://www.youtube.com/watch?v=90o-a_hX0Fc",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "JoKawuu",
+            "link": "https://youtu.be/tn2HZDs_1ms?si=RUSKUTVSF0hIBWfu",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/59oHId4kIsM?si=8JdxWCEfQo0JmV5M",
+            "percent": 100,
+            "fps": 288
+        }
+    ]
+}

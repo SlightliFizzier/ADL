@@ -1,0 +1,19 @@
+{
+    "id": 62592746,
+    "name": "Tenth Circle",
+    "author": "DeniPol",
+    "creators": [],
+    "verifier": "Frost",
+    "verification": "https://www.youtube.com/watch?v=ZX8MMknakoM",
+    "showcase": "https://www.youtube.com/watch?v=gd9-FI-WBhg",
+    "percentToQualify": 100,
+    "password": "060720",
+    "records": [
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/EzAvAMKtIvo?si=OXYprzflQ2BBR7VI",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

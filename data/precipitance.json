@@ -1,0 +1,25 @@
+{
+    "id": 60197839,
+    "name": "Precipitance",
+    "author": "Extravagon",
+    "creators": [],
+    "verifier": "Fizzi",
+    "verification": "https://youtu.be/rucUlaSsP4M?si=zDeuAyNRUqTLQmiC",
+    "showcase": "https://youtu.be/VAZ3m8y32AI?si=Vmm2QTcFcu4oUkcD",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/CVR1gAF65Gc?si=nkvdWfGZ5wleCjI3",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/vSDPhyTLAYU?si=AU_hTRLHyiYTJ3AW",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

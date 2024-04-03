@@ -1,0 +1,25 @@
+{
+    "id": 56089612,
+    "name": "Zettabyte",
+    "author": "Jenkins",
+    "creators": [],
+    "verifier": "vitamin227",
+    "verification": "https://youtu.be/Ak_cz3Vi7lE?si=gXYJpzvxWTVLDujH",
+    "showcase": "https://youtu.be/ljLBmbgdkZw?si=NUAuMVFhdxuYC3Sd",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Kapinapi",
+            "link": "https://youtu.be/QVK8I2kVeS4?si=zhKrNdq78JO2vY6j",
+            "percent": 100,
+            "fps": 144
+        },
+        {
+            "user": "JoKawuu",
+            "link": "https://youtu.be/9RmBYEjfzeA?si=HcJuTFmjb-wXCGKM",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

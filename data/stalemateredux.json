@@ -1,0 +1,25 @@
+{
+    "id": 37398911,
+    "name": "Stalemate Redux",
+    "author": "GdTheTactiq",
+    "creators": [],
+    "verifier": "Frost",
+    "verification": "https://youtu.be/XzADses6WuU?si=jtTCgM9M5yHMU-FN",
+    "showcase": "https://youtu.be/0tbFPsggEr4?si=qo1hiBZpHjaeym7i",
+    "percentToQualify": 100,
+    "password": "115911",
+    "records": [
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/grnje8lLk6c?si=VPaMhen00PLnvdyB",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/wDCjLlP4qJ0?si=9usO27OPKjF1KRDG",
+            "percent": 100,
+            "fps": 288
+        }
+    ]
+}

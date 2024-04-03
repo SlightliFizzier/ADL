@@ -1,0 +1,25 @@
+{
+    "id": 19759411,
+    "name": "Phobos",
+    "author": "KrmaL",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://www.youtube.com/watch?v=bvav2AterQg",
+    "showcase": "https://www.youtube.com/watch?v=qLfTtzDAOCY",
+    "percentToQualify": 100,
+    "password": "318008",
+    "records": [
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/3KNFjnWFsco?si=eQlkPKV7WmYK9HuV",
+            "percent": 100,
+            "fps": 60
+        },
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/ZL3ddloNe8o?si=AgUphqVXwfSBHj3D",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

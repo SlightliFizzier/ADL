@@ -1,0 +1,31 @@
+{
+    "id": 2374518,
+    "name": "Red World",
+    "author": "saRy",
+    "creators": [],
+    "verifier": "Fizzi",
+    "verification": "https://www.youtube.com/watch?v=dZgvdjuVLZM",
+    "showcase": "https://youtu.be/ZH8iubNQBXE?si=A1zVlh2Al50p3XXp",
+    "percentToQualify": 100,
+    "password": "-",
+    "records": [
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/KnqxMK5go44?si=GjNSBAheR7EzhT5A",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "vitamin227",
+            "link": "https://youtu.be/wAkCLXTNCTc?si=p4yeCMOO9EXA6cJ1",
+            "percent": 100,
+            "fps": 144
+        },
+        {
+            "user": "Kapinapi",
+            "link": "https://youtu.be/bwlGFYyjqEg?si=qPF_i3LmalSI4FiU",
+            "percent": 100,
+            "fps": 144
+        }
+    ]
+}

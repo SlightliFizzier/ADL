@@ -1,0 +1,19 @@
+{
+    "id": 56460850,
+    "name": "Triple Six",
+    "author": "Zylenox",
+    "creators": [],
+    "verifier": "SilverDynamix",
+    "verification": "https://www.youtube.com/watch?v=qXL9W9zwF1o",
+    "showcase": "https://www.youtube.com/watch?v=mw0foetX4CQ",
+    "percentToQualify": 100,
+    "password": "666666",
+    "records": [
+        {
+            "user": "vitamin227",
+            "link": "https://youtu.be/ntHJAHkuPKw?si=7fMtKovh142anVfE",
+            "percent": 100,
+            "fps": 144
+        }
+    ]
+}

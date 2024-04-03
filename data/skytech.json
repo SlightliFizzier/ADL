@@ -1,0 +1,25 @@
+{
+    "id": 38047229,
+    "name": "Sky Tech",
+    "author": "Giron",
+    "creators": [],
+    "verifier": "SilverDynamix",
+    "verification": "https://youtu.be/vi6df7jlQLE?si=60voz_lC8T7RaMp5",
+    "showcase": "https://youtu.be/UU186q7fGfc?si=Q_F2zsoNc_ddxFx4",
+    "percentToQualify": 100,
+    "password": "121212",
+    "records": [
+        {
+            "user": "vitamin227",
+            "link": "https://youtu.be/ghih7UNaxoY?si=K-FMduvIKHNjRp_6",
+            "percent": 100,
+            "fps": 144
+        },
+        {
+            "user": "Hynamite",
+            "link": "https://youtu.be/qxhyVuF_zG4?si=lVoIfHkc00UEhIiZ",
+            "percent": 100,
+            "fps": 60
+        }
+    ]
+}

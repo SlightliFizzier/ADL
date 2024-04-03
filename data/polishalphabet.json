@@ -1,0 +1,37 @@
+{
+    "id": 48765988,
+    "name": "Polish Alphabet",
+    "author": "Patchimator",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/sM69wUPN5yc?si=DRd7ifL7ifnVY-XE",
+    "showcase": "https://youtu.be/t8OH0BnmSZQ?si=1QtkZ2u26SzHO3Vs",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/ZEiqtrqOZVA?si=EhB4OVI5gQURAbXL",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "LucaTheGamer",
+            "link": "https://youtu.be/kVVnVIaA5XY?si=hNc0hEoSfOJewW87",
+            "percent": 100,
+            "fps": 60
+        },
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/LbehD34PuYc?si=Fjdd11y7icqiKy75",
+            "percent": 100,
+            "fps": 288
+        },
+        {
+            "user": "vitamin227",
+            "link": "https://youtu.be/WhUzDoUGrYY?si=QpngBhEfuj2aMnmC",
+            "percent": 100,
+            "fps": 144
+        }
+    ]
+}

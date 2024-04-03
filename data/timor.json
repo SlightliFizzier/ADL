@@ -1,0 +1,19 @@
+{
+    "id": 65969451,
+    "name": "Timor",
+    "author": "Colorbolt",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/4Lwz_F9dxTc?si=kavRZ3lsr3vj7hxt",
+    "showcase": "https://youtu.be/-OJxE3WsR00?si=xMaqmqCnqfrK4MlO",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "lantern",
+            "link": "https://youtu.be/8nW557t0z58?si=trQbm7_fvAitZEMg",
+            "percent": 100,
+            "fps": 240
+        }
+    ]
+}

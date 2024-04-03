@@ -1,0 +1,19 @@
+{
+    "id": 44022701,
+    "name": "Titan Complex",
+    "author": "TCTeam",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/BEw4Xuh0XaI?si=1rXBNkt1TxS-F4tE",
+    "showcase": "https://youtu.be/uOv_3JRXMRg?si=0kD8fw0O0xflroph",
+    "percentToQualify": 100,
+    "password": "666666",
+    "records": [
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/iSsIELHi8GI?si=ll9T3nDoFRFduHxq",
+            "percent": 100,
+            "fps": 720
+        }
+    ]
+}

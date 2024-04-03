@@ -1,0 +1,37 @@
+{
+    "id": 57019271,
+    "name": "Raindance",
+    "author": "Milos482",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/F_UXQyejl_A?si=hRurEl8RUv-28c6H",
+    "showcase": "https://youtu.be/D-zDddc4LTw?si=xuLL6htVpq3ivgID",
+    "percentToQualify": 100,
+    "password": "-",
+    "records": [
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/2CDM6uymR20?si=MsjuPHyMwo-IRuO-",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "vitamin227",
+            "link": "https://youtu.be/nFTYJPnB5pQ?si=SgaKFD7G1c6dVOhf",
+            "percent": 100,
+            "fps": 144
+        },
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/NXQPBH3LdT4?si=u_z8X_scVfvqpwpE",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "SilverDynamix",
+            "link": "https://www.youtube.com/watch?v=mGtestF7Enw",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

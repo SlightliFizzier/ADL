@@ -1,0 +1,19 @@
+{
+    "id": 90024795,
+    "name": "To The Blue Moon",
+    "author": "vRidge",
+    "creators": [],
+    "verifier": "SilverDynamix",
+    "verification": "https://youtu.be/BquczltbTNc?si=qoZHharGsHMtduXa",
+    "showcase": "https://youtu.be/BTj4Q0DhAwQ?si=dnD2CbucDN1LlNYG",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/bDDfs9htdPs?si=_wxJT9BG4RTAGDVG",
+            "percent": 100,
+            "fps": 288
+        }
+    ]
+}

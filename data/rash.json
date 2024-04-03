@@ -1,0 +1,19 @@
+{
+    "id": 69507105,
+    "name": "RASH",
+    "author": "loltad",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/6hbJu9wPcMk?si=WXpb9v7o31aJIuRp",
+    "showcase": "https://youtu.be/PlJdpVve3Vo?si=gPVynJmgS9phDj1_",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Chubs Dubs",
+            "link": "https://youtu.be/nUtA5BPDric?si=T1dIOSuS5dNM9uIG",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}

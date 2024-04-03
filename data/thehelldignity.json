@@ -1,0 +1,19 @@
+{
+    "id": 35579890,
+    "name": "The Hell Dignity",
+    "author": "Stormfly",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://www.youtube.com/watch?v=LT2Mcnyg42o",
+    "showcase": "https://www.youtube.com/watch?v=CGXiSle2Md4",
+    "percentToQualify": 100,
+    "password": "813972",
+    "records": [
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/R-H0LYRxvKQ?si=zKZllLydYPuPJzXZ",
+            "percent": 100,
+            "fps": 60
+        }
+    ]
+}

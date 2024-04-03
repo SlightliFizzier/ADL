@@ -1,0 +1,25 @@
+{
+    "id": 45239692,
+    "name": "The Lost Existence",
+    "author": "JonathanGD",
+    "creators": [],
+    "verifier": "opt1ss",
+    "verification": "https://youtu.be/s4lotOn4LaE?si=E9iufFVic79h8-lU",
+    "showcase": "https://youtu.be/-GDcaQiJCaU?si=rawiIG-PzeWgy0hw",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/sdLyACXqcYQ?si=h9jDHqphki2moQNo",
+            "percent": 100,
+            "fps": 360
+        },
+        {
+            "user": "vitamin227",
+            "link": "https://youtu.be/I1eETItIk3A?si=9oHas3nh9Fb1rGYU",
+            "percent": 100,
+            "fps": 144
+        }
+    ]
+}

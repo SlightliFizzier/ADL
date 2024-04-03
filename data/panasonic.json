@@ -1,0 +1,19 @@
+{
+    "id": 33364327,
+    "name": "PanaSonic",
+    "author": "TheShadowRealm",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://www.youtube.com/watch?v=uuj3NX7aKGM",
+    "showcase": "https://www.youtube.com/watch?v=QJQDGeDl9G0",
+    "percentToQualify": 100,
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "vitamin227",
+            "link": "https://youtu.be/x4dwRpTYL-Y?si=67b1yyG_s6tb9Y3e",
+            "percent": 100,
+            "fps": 144
+        }
+    ]
+}

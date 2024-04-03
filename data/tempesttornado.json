@@ -1,0 +1,19 @@
+{
+    "id": 60952893,
+    "name": "Tempest Tornado",
+    "author": "ColorBolt",
+    "creators": [],
+    "verifier": "Fizzi",
+    "verification": "https://youtu.be/FOclCZ_pmYQ?si=gZKaSnnHMGC2CnLz",
+    "showcase": "https://youtu.be/v_-QvVVnC4o?si=To87ANwo-27Mq6Ly",
+    "percentToQualify": 100,
+    "password": "090219",
+    "records": [
+        {
+            "user": "vitamin227",
+            "link": "https://youtu.be/AsiyqUNlNpw?si=gMqpYDvzmwhgXoib",
+            "percent": 100,
+            "fps": 144
+        }
+    ]
+}

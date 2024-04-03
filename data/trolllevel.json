@@ -1,0 +1,25 @@
+{
+    "id": 76196489,
+    "name": "troll level",
+    "author": "Lexycat",
+    "creators": [],
+    "verifier": "opt1ss",
+    "verification": "https://youtu.be/TwbGsj575cI?si=p-D9jS8UrZpJ7lcX",
+    "showcase": "https://youtu.be/zc7XtneRwSQ?si=tRtaH3uvZhaM73Yo",
+    "percentToQualify": 100,
+    "password": "001450",
+    "records": [
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/X06V4nbrXeA?si=00TgKoWywhVe24lI",
+            "percent": 100,
+            "fps": 60
+        },
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/7EoYW9foKkc?si=Z3pf5oUKsT6IcMwc",
+            "percent": 100,
+            "fps": 288
+        }
+    ]
+}

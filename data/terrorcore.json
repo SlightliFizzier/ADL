@@ -1,0 +1,19 @@
+{
+    "id": 92093417,
+    "name": "TerrorCore",
+    "author": "Loogiah",
+    "creators": [],
+    "verifier": "SilverDynamix",
+    "verification": "https://youtu.be/47D-hsqKRK8?si=n8b0T6NWFCBw78Dj",
+    "showcase": "https://youtu.be/6yPUJXQZNeg?si=QRQP9ZenrrYFkMTc",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/-QACqC1Z-wE?si=0f3hBsDEND2qZx_4",
+            "percent": 100,
+            "fps": 288
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": 20159880,
+    "name": "Plasma Pulse III",
+    "author": "xSmokes",
+    "creators": [],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/V59F0NuQ3rg?si=yyBFa6YonitUjSYw",
+    "showcase": "https://youtu.be/GCXWzU715C8?si=qewWVnBZG9rZpXWB",
+    "percentToQualify": 100,
+    "password": "250516",
+    "records": [
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/4eBG-zOcOOk?si=c4JoHuPX39cob5d_",
+            "percent": 100,
+            "fps": 360
+        }
+    ]
+}
