@@ -3,18 +3,12 @@
     "name": "Incipient",
     "author": "Jenkins",
     "creators": [],
-    "verifier": "Kapinapi",
-    "verification": "https://youtu.be/tORir0ORaMg?si=U8hAcNb8LTZUTi-L",
+    "verifier": "Fizzi",
+    "verification": "https://youtu.be/oHMYQDO3kus?si=n6wG_rACLsUFXG19",
     "showcase": "https://youtu.be/vyFQknvssnI?si=LZ6sQ3JjrShNtq3r",
     "percentToQualify": 100,
     "password": "420420",
     "records": [
-        {
-            "user": "Fizzi",
-            "link": "https://youtu.be/oHMYQDO3kus?si=n6wG_rACLsUFXG19",
-            "percent": 100,
-            "fps": 300
-        },
         {
             "user": "SilverDynamix",
             "link": "https://youtu.be/GsAP8qlmlQ8?si=BsZS57zyH2yFq2M7",
