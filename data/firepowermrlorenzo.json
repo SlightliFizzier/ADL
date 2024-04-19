@@ -3,17 +3,11 @@
     "name": "FirePower",
     "author": "MrLorenzo",
     "creators": [],
-    "verifier": "Kapinapi",
-    "verification": "https://www.youtube.com/watch?v=JMduEav_T7I",
+    "verifier": "lantern",
+    "verification": "https://youtu.be/qt9cIjAdYkM?si=x5DV6-WrmRRsnKIo",
     "showcase": "https://www.youtube.com/watch?v=arCsUtcjt3o",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "lantern",
-            "link": "https://youtu.be/qt9cIjAdYkM?si=x5DV6-WrmRRsnKIo",
-            "percent": 100,
-            "fps": 240
-        }
     ]
 }
