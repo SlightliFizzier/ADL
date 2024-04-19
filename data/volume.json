@@ -3,36 +3,30 @@
     "name": "Volume",
     "author": "Metalface221",
     "creators": [],
-    "verifier": "Kapinapi",
-    "verification": "https://www.youtube.com/watch?v=l0RRjYYjj38",
+    "verifier": "Frost",
+    "verification": "https://www.youtube.com/watch?v=ZaaMIobzuFI",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
         {
-            "user": "Frost",
-            "link": "https://www.youtube.com/watch?v=ZaaMIobzuFI",
-            "percent": 100,
-            "fps": 360
-        },
-      {
             "user": "SilverDynamix",
             "link": "https://www.youtube.com/watch?v=kdTEo_i8ADg",
             "percent": 100,
             "fps": 360
         },
-      {
+        {
             "user": "vitamin227",
             "link": "https://www.youtube.com/watch?v=66LGwpodXzg",
             "percent": 100,
             "fps": 144
         },
-      {
+        {
             "user": "JoKawuu",
             "link": "https://www.youtube.com/watch?v=urdvN8wkIEE",
             "percent": 100,
             "fps": 360
         },
-      {
+        {
             "user": "Fizzi",
             "link": "https://www.youtube.com/watch?v=M3fId0uLP0g",
             "percent": 100,
