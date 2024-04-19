@@ -3,16 +3,10 @@
     "name": "WaveBreaker",
     "author": "Lemons",
     "creators": [],
-    "verifier": "Kapinapi",
-    "verification": "https://youtu.be/GXYrkDj8RU0?si=_iWVtfiZy08BzlPg",
+    "verifier": "vitamin227",
+    "verification": "https://youtu.be/QncpKj_mhjU?si=6VUgRzlaXmj2Ra0E",
     "percentToQualify": 100,
     "password": "040400",
     "records": [
-        {
-            "user": "vitamin227",
-            "link": "https://youtu.be/QncpKj_mhjU?si=6VUgRzlaXmj2Ra0E",
-            "percent": 100,
-            "fps": 144
-        }
     ]
 }
