@@ -3,17 +3,11 @@
     "name": "Audio Extraction",
     "author": "GoodSmile",
     "creators": [],
-    "verifier": "Kapinapi",
-    "verification": "https://www.youtube.com/watch?v=i-5TBvqeNAk",
+    "verifier": "vitamin227",
+    "verification": "https://youtu.be/ZrAoYITUkRg?si=Mp6JK71wVA7A9MgH",
     "percentToQualify": 100,
     "password": "407395",
     "records": [
-        {
-            "user": "vitamin227",
-            "link": "https://youtu.be/ZrAoYITUkRg?si=Mp6JK71wVA7A9MgH",
-            "percent": 100,
-            "fps": 144
-        },
         {
             "user": "SilverDynamix",
             "link": "https://youtu.be/mcbPojkV0P4?si=y9h1okwkF1R5g3oY",
