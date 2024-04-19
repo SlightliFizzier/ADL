@@ -3,18 +3,12 @@
     "name": "Alcatraz",
     "author": "Asuith",
     "creators": [],
-    "verifier": "Kapinapi",
-    "verification": "https://www.youtube.com/watch?v=cXjU4WW_T1g",
+    "verifier": "Frost",
+    "verification": "https://www.youtube.com/watch?v=PVv_GusNxsE",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-      {
-            "user": "Frost",
-            "link": "https://www.youtube.com/watch?v=PVv_GusNxsE",
-            "percent": 100,
-            "fps": 240
-        },
-      {
+        {
             "user": "Fizzi",
             "link": "https://www.youtube.com/watch?v=Om_uln1QsSc",
             "percent": 100,
@@ -26,7 +20,7 @@
             "percent": 100,
             "fps": 60
         },
-       {
+        {
             "user": "vitamin227",
             "link": "https://www.youtube.com/watch?v=laYFNzq-jxw",
             "percent": 100,
