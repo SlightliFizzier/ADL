@@ -3,16 +3,10 @@
     "name": "Annihilation Nation",
     "author": "Zylenox",
     "creators": [],
-    "verifier": "Kapinapi",
-    "verification": "https://youtu.be/XDgaYMRI7kw?si=zi6ajJrJpiYMODKa",
+    "verifier": "opt1ss",
+    "verification": "https://youtu.be/rQEd4HU79KI?si=u7laZ2i5sppzJIHs",
     "percentToQualify": 100,
     "password": "666666",
     "records": [
-        {
-            "user": "opt1ss",
-            "link": "https://youtu.be/rQEd4HU79KI?si=u7laZ2i5sppzJIHs",
-            "percent": 100,
-            "fps": 360
-        }
     ]
 }
