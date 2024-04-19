@@ -3,16 +3,10 @@
     "name": "Timor",
     "author": "Colorbolt",
     "creators": [],
-    "verifier": "Kapinapi",
-    "verification": "https://youtu.be/4Lwz_F9dxTc?si=kavRZ3lsr3vj7hxt",
+    "verifier": "lantern",
+    "verification": "https://youtu.be/8nW557t0z58?si=trQbm7_fvAitZEMg",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "lantern",
-            "link": "https://youtu.be/8nW557t0z58?si=trQbm7_fvAitZEMg",
-            "percent": 100,
-            "fps": 240
-        }
     ]
 }
