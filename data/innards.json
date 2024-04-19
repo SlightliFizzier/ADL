@@ -3,18 +3,12 @@
     "name": "INNARDS",
     "author": "Kaito",
     "creators": [],
-    "verifier": "Kapinapi",
-    "verification": "https://youtu.be/p3AQp2THbMM?si=zN6BJPICC1xLIMxU",
+    "verifier": "Frost",
+    "verification": "https://youtu.be/8tE4WbyQ63Q?si=jDWgSo84VFRXuuY6",
     "showcase": "https://youtu.be/T-3q0d0QD0c?si=SyIucp6ecjjekBse",
     "percentToQualify": 100,
     "password": "024624",
     "records": [
-        {
-            "user": "Frost",
-            "link": "https://youtu.be/8tE4WbyQ63Q?si=jDWgSo84VFRXuuY6",
-            "percent": 100,
-            "fps": 360
-        },
         {
             "user": "SilverDynamix",
             "link": "https://youtu.be/LrqV8vmIHTY?si=SE2yEGvvgmkrd-AM",
