@@ -3,16 +3,10 @@
     "name": "Athanatos",
     "author": "Exenity",
     "creators": [],
-    "verifier": "Kapinapi",
-    "verification": "https://youtu.be/90a3H74Ii0k?si=dbocqhgbKluEz3Uw",
+    "verifier": "SilverDynamix",
+    "verification": "https://youtu.be/wpdg-z8Wmt0?si=XxLYWlp6vn38jDBQ",
     "percentToQualify": 100,
     "password": "666669",
     "records": [
-        {
-            "user": "SilverDynamix",
-            "link": "https://youtu.be/wpdg-z8Wmt0?si=XxLYWlp6vn38jDBQ",
-            "percent": 100,
-            "fps": 360
-        }
     ]
 }
