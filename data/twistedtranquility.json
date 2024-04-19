@@ -3,16 +3,10 @@
     "name": "Twisted Tranquility",
     "author": "Flukester",
     "creators": [],
-    "verifier": "Kapinapi",
-    "verification": "https://www.youtube.com/watch?v=996VcUHZyR4",
+    "verifier": "SilverDynamix",
+    "verification": "https://youtu.be/Q6F4TPIlmC4?si=pNjWrZIkKWvnQjmc",
     "percentToQualify": 100,
     "password": "200356",
     "records": [
-        {
-            "user": "SilverDynamix",
-            "link": "https://youtu.be/Q6F4TPIlmC4?si=pNjWrZIkKWvnQjmc",
-            "percent": 100,
-            "fps": 360
-        }
     ]
 }
