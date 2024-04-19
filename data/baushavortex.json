@@ -3,17 +3,11 @@
     "name": "Bausha Vortex",
     "author": "Pennutoh",
     "creators": [],
-    "verifier": "Kapinapi",
-    "verification": "https://youtu.be/AkEm_2xkSkA?si=qOvQXPKSlxV3svZU",
+    "verifier": "SilverDynamix",
+    "verification": "https://youtu.be/kt0X73-BXYs?si=ANXUbyKMLwNU3stE",
     "showcase": "https://youtu.be/ghxM2V4QnGk?si=Q5buL-yC0vsyA1jD",
     "percentToQualify": 100,
     "password": "210317",
     "records": [
-        {
-            "user": "SilverDynamix",
-            "link": "https://youtu.be/kt0X73-BXYs?si=ANXUbyKMLwNU3stE",
-            "percent": 100,
-            "fps": 240
-        }
     ]
 }
