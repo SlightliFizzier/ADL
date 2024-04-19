@@ -3,17 +3,11 @@
     "name": "Daydream",
     "author": "Yendis",
     "creators": [],
-    "verifier": "Kapinapi",
-    "verification": "https://youtu.be/SK390bhSBUU?si=wp2owU-NsD4IjCFA",
+    "verifier": "SilverDynamix",
+    "verification": "https://youtu.be/EQzw-0YqkPg?si=vy88pAHKuCqXbre0",
     "showcase": "https://youtu.be/GGHsjRd6WL4?si=TrqviS6GGHUwNBA0",
     "percentToQualify": 100,
     "password": "696969",
     "records": [
-        {
-            "user": "SilverDynamix",
-            "link": "https://youtu.be/EQzw-0YqkPg?si=vy88pAHKuCqXbre0",
-            "percent": 100,
-            "fps": 360
-        }
     ]
 }
