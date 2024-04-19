@@ -3,17 +3,11 @@
     "name": "Hydratic",
     "author": "MaxyLAND",
     "creators": [],
-    "verifier": "Kapinapi",
-    "verification": "https://youtu.be/wzEbnA7ze_0?si=biCOV4ODAVPb7NW0",
+    "verifier": "SilverDynamix",
+    "verification": "https://youtu.be/pbtuEPrhyy4?si=QQ97--p2_Nsu93bc",
     "showcase": "https://youtu.be/c6QHg2QRz5Q?si=5pcif-rCNLRnCToM",
     "percentToQualify": 100,
     "password": "140220",
     "records": [
-        {
-            "user": "SilverDynamix",
-            "link": "https://youtu.be/pbtuEPrhyy4?si=QQ97--p2_Nsu93bc",
-            "percent": 100,
-            "fps": 360
-        }
     ]
 }
