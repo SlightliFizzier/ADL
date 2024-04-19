@@ -3,18 +3,12 @@
     "name": "Bloodbath",
     "author": "Riot",
     "creators": [],
-    "verifier": "Kapinapi",
-    "verification": "https://youtu.be/F9lonAoXawQ?si=jnQ_5xdHT_gXDiFo",
+    "verifier": "Frost",
+    "verification": "https://youtu.be/8MKQIV_wnnM?si=f2XxuQ7w39FINLkB",
     "showcase": "https://youtu.be/N7-QULDytJE?si=edTcxlhf5KQ887BT",
     "percentToQualify": 100,
     "password": "-",
     "records": [
-        {
-            "user": "Frost",
-            "link": "https://youtu.be/8MKQIV_wnnM?si=f2XxuQ7w39FINLkB",
-            "percent": 100,
-            "fps": 240
-        },
         {
             "user": "Chubs Dubs",
             "link": "https://youtu.be/d-rAYL86YX0?si=XegoO4D9_UxEJ0P5",
