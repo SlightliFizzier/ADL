@@ -9,11 +9,5 @@
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "lantern",
-            "link": "https://youtu.be/_aSZEv7CNAo?si=tDHBNrtKghD6UU2G",
-            "percent": 100,
-            "fps": 240
-        }
     ]
 }

@@ -9,11 +9,5 @@
     "percentToQualify": 100,
     "password": "456454",
     "records": [
-        {
-            "user": "lantern",
-            "link": "https://youtu.be/JEHb7QMcQcE?si=FZJBaZWy-Gso_d1r",
-            "percent": 100,
-            "fps": 240
-        }
     ]
 }

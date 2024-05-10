@@ -3,17 +3,11 @@
     "name": "Cupid",
     "author": "vyp",
     "creators": [],
-    "verifier": "Lantern",
+    "verifier": "SilverDynamix",
     "verification": "https://www.youtube.com/watch?v=ttUlSmEkS9g",
     "showcase": "https://www.youtube.com/watch?v=0ebefZfZQqE",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "SilverDynamix",
-            "link": "https://www.youtube.com/watch?v=ttUlSmEkS9g",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
