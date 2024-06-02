@@ -3,17 +3,11 @@
     "name": "Frozen Cave",
     "author": "TheParadoxTeam",
     "creators": [],
-    "verifier": "Chubs Dubs",
-    "verification": "https://youtu.be/dlKIhm44b-o?si=RMy-ag5QFnB0mQER",
+    "verifier": "Lucky3Jumps",
+    "verification": "https://youtu.be/XPwn1WfwySc?si=BvOuNhNfyK1kgqTI",
     "showcase": "https://youtu.be/5nLb4VT1KHY?si=WTL8xyvzP8fJPiWJ",
     "percentToQualify": 100,
     "password": "060521",
     "records": [
-        {
-            "user": "Lucky3Jumps",
-            "link": "https://youtu.be/XPwn1WfwySc?si=BvOuNhNfyK1kgqTI",
-            "percent": 100,
-            "fps": 165
-        }
     ]
 }

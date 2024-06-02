@@ -3,16 +3,10 @@
     "name": "Phobos",
     "author": "KrmaL",
     "creators": [],
-    "verifier": "Chubs Dubs",
-    "verification": "https://youtu.be/3KNFjnWFsco?si=eQlkPKV7WmYK9HuV",
+    "verifier": "SilverDynamix",
+    "verification": "https://youtu.be/ZL3ddloNe8o?si=AgUphqVXwfSBHj3D",
     "percentToQualify": 100,
     "password": "318008",
     "records": [
-        {
-            "user": "SilverDynamix",
-            "link": "https://youtu.be/ZL3ddloNe8o?si=AgUphqVXwfSBHj3D",
-            "percent": 100,
-            "fps": 360
-        }
     ]
 }

@@ -3,17 +3,11 @@
     "name": "Disruption",
     "author": "Ka1sa",
     "creators": [],
-    "verifier": "Chubs Dubs",
-    "verification": "https://youtu.be/pAaau_sVYkM?si=Hr3a6RcnXY4pOrHy",
+    "verifier": "Fizzi",
+    "verification": "https://youtu.be/YGYbIgOz48Q?si=8QKrRxHrq3g7cC0T",
     "showcase": "https://youtu.be/GhzR24CcE_E?si=A45Z_gSRo9Lf1jWL",
     "percentToQualify": 100,
     "password": "888888",
     "records": [
-        {
-            "user": "Fizzi",
-            "link": "https://youtu.be/YGYbIgOz48Q?si=8QKrRxHrq3g7cC0T",
-            "percent": 100,
-            "fps": 288
-        }
     ]
 }
