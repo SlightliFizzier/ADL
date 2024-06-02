@@ -8,11 +8,5 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
-        {
-            "user": "Chubs Dubs",
-            "link": "https://youtu.be/I0lcxchVSRg?si=TX2pQxl1cTiqncTF",
-            "percent": 100,
-            "fps": 360
-        }
     ]
 }
