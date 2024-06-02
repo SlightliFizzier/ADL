@@ -3,16 +3,10 @@
     "name": "Alpha Baa X",
     "author": "Failure444",
     "creators": [],
-    "verifier": "Chubs Dubs",
-    "verification": "https://youtu.be/Z50JtIjyJXo?si=FNWQErAnXZvhUwKu",
+    "verifier": "Fizzi",
+    "verification": "https://youtu.be/T4aRRXa8vCM?si=N_g7MAfjlTvO-TDv",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "Fizzi",
-            "link": "https://youtu.be/T4aRRXa8vCM?si=N_g7MAfjlTvO-TDv",
-            "percent": 100,
-            "fps": 144
-        }
     ]
 }
