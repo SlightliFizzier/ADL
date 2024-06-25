@@ -1,0 +1,12 @@
+{
+    "id": 123456789,
+    "name": "Level",
+    "author": "Someone",
+    "creators": [],
+    "verifier": "Someone",
+    "verification": "https://www.youtube.com/watch?v=ttUlSmEkS9g",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+    ]
+}
