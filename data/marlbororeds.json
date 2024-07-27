@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=ttUlSmEkS9g",
             "percent": 100,
             "fps": 360
+        },
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/l4epvBFx3b0?si=tYgwV3gFJOD1JsC5",
+            "percent": 100,
+            "fps": 240
         }
     ]
 }
