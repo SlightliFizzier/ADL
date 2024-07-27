@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Fizzi",
+            "link": "https://youtu.be/ZLCZ_HkTlE8?si=LVaYHagAFKQJjAAf",
+            "percent": 100,
+            "fps": 240
+        }
     ]
 }
