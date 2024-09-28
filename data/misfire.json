@@ -3,10 +3,16 @@
     "name": "MISFIRE",
     "author": "Galaxxyss",
     "creators": [],
-    "verifier": "SilverDynamix",
-    "verification": "https://youtu.be/njFbBl6ZyL0?si=_BUOMwDET6OeRv0o",
+    "verifier": "Chubs Dubs",
+    "verification": "https://www.youtube.com/watch?v=hJswnI2DYwc&list=PL-NVoF9O1eL32_sDluVvJ_CBFqhj8D3fU&index=33",
     "percentToQualify": 100,
     "password": "80085",
     "records": [
+          {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/njFbBl6ZyL0?si=_BUOMwDET6OeRv0o",
+            "percent": 100,
+            "fps": 360
+        }
     ]
 }
