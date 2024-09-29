@@ -25,6 +25,12 @@
             "link": "https://youtu.be/gJDp2gALYKk?si=BZBbWpvNhSZpjJGp",
             "percent": 100,
             "fps": 360
+        },
+        {
+            "user": "Chubs Dubs",
+            "link": "https://www.youtube.com/watch?v=TedrOhmTJ0I&list=PL-NVoF9O1eL32_sDluVvJ_CBFqhj8D3fU&index=20",
+            "percent": 100,
+            "fps": 60
         }
     ]
 }
