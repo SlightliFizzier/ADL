@@ -3,10 +3,16 @@
     "name": "Heartbeat",
     "author": "KrmaL",
     "creators": [],
-    "verifier": "SilverDynamix",
-    "verification": "https://youtu.be/2NEm0DzbANc?si=muldlrHxVI3kjdk9",
+    "verifier": "Chubs Dubs",
+    "verification": "https://www.youtube.com/watch?v=zoKHTsKhxdc",
     "percentToQualify": 100,
     "password": "000003",
     "records": [
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/2NEm0DzbANc?si=muldlrHxVI3kjdk9",
+            "percent": 100,
+            "fps": 240
+        }
     ]
 }

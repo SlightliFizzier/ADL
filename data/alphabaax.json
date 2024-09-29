@@ -4,9 +4,15 @@
     "author": "Failure444",
     "creators": [],
     "verifier": "SlightliFizzi",
-    "verification": "https://youtu.be/T4aRRXa8vCM?si=N_g7MAfjlTvO-TDv",
+    "verification": "https://www.youtube.com/watch?v=Z50JtIjyJXo",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "SlightliFizzi",
+            "link": "https://www.youtube.com/watch?v=T4aRRXa8vCM",
+            "percent": 100,
+            "fps": 144
+        }
     ]
 }

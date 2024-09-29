@@ -3,10 +3,16 @@
     "name": "court circuit",
     "author": "Fafenel",
     "creators": [],
-    "verifier": "SilverDynamix",
-    "verification": "https://youtu.be/3lelSYI_82Q?si=2mRL1oRKjuuOmMMP",
+    "verifier": "Chubs Dubs",
+    "verification": "https://www.youtube.com/watch?v=WGTXk00xR-Q",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "SilverDynamix",
+            "link": "https://www.youtube.com/watch?v=3lelSYI_82Q",
+            "percent": 100,
+            "fps": 720
+        }
     ]
 }
