@@ -3,10 +3,16 @@
     "name": "Eternal Moment",
     "author": "Rainstorm",
     "creators": [],
-    "verifier": "SlightliFizzi",
-    "verification": "https://youtu.be/BCe62zV7Dgs",
+    "verifier": "Chubs Dubs",
+    "verification": "https://www.youtube.com/watch?v=T1EyJw99uGs",
     "percentToQualify": 100,
     "password": "086400",
     "records": [
+        {
+            "user": "SlightliFizzi",
+            "link": "https://youtu.be/BCe62zV7Dgs",
+            "percent": 100,
+            "fps": 288
+        }
     ]
 }

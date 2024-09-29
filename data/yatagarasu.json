@@ -3,11 +3,17 @@
     "name": "Yatagarasu",
     "author": "TrusTa",
     "creators": [],
-    "verifier": "SilverDynamix",
-    "verification": "https://youtu.be/mxeCrsdnva0?si=pnZInu5bI83__e4S",
+    "verifier": "Chubs Dubs",
+    "verification": "https://www.youtube.com/watch?v=Wfh-cUXE33k",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/mxeCrsdnva0?si=pnZInu5bI83__e4S",
+            "percent": 100,
+            "fps": 360
+        },
         {
             "user": "SlightliFizzi",
             "link": "https://youtu.be/ZLCZ_HkTlE8?si=LVaYHagAFKQJjAAf",

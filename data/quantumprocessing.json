@@ -3,11 +3,17 @@
     "name": "Quantum Processing",
     "author": "Riot",
     "creators": [],
-    "verifier": "SlightliFizzi",
-    "verification": "https://youtu.be/_2sAeLuMoDg?si=-D6XIgOM0OgZksf1",
+    "verifier": "Chubs Dubs",
+    "verification": "https://www.youtube.com/watch?v=R2BonpZzPF4",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "SlightliFizzi",
+            "link": "https://youtu.be/_2sAeLuMoDg?si=-D6XIgOM0OgZksf1",
+            "percent": 100,
+            "fps": 144
+        },
         {
             "user": "Lucky3Jumps",
             "link": "https://youtu.be/JZJStu4KZfs?si=BjKAmV1xBnI-RtFu",

@@ -3,10 +3,16 @@
     "name": "Bloodlust",
     "author": "knobbelboy",
     "creators": [],
-    "verifier": "SilverDynamix",
-    "verification": "https://youtu.be/TpSb29v93ss?si=N0goojkWzWsMocgU",
+    "verifier": "Chubs Dubs",
+    "verification": "https://www.youtube.com/watch?v=3CBryvnEk0Y",
     "percentToQualify": 100,
     "password": "121296",
     "records": [
+        {
+            "user": "SilverDynamix",
+            "link": "https://youtu.be/TpSb29v93ss?si=N0goojkWzWsMocgU",
+            "percent": 100,
+            "fps": 360
+        }
     ]
 }
