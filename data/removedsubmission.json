@@ -3,10 +3,16 @@
     "name": "Removed Submission",
     "author": "WHErwin",
     "creators": [],
-    "verifier": "SlightliFizzi",
-    "verification": "https://youtu.be/2i_iyWC9nJg?si=f_BcIoidsZnvzHsw",
+    "verifier": "Chubs Dubs",
+    "verification": "https://www.youtube.com/watch?v=O6_3kSKuPnI",
     "percentToQualify": 100,
     "password": "474969",
     "records": [
+        {
+            "user": "SlightliFizzi",
+            "link": "https://youtu.be/2i_iyWC9nJg?si=f_BcIoidsZnvzHsw",
+            "percent": 100,
+            "fps": 288
+        }
     ]
 }
