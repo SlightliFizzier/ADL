@@ -102,30 +102,6 @@ export default {
                                     <img :src="\`/assets/\${roleIconMap[rank.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="rank.role">
                                     <a v-if="member.link" class="type-label-lg link" target="_blank" :href="member.link">{{ member.name }}</a>
                                     <p v-else>{{ member.name }}</p>
-                                </li>
-                            </ol>
-                        </ol>
-                    </template>
-                     <h3>> How to Submit Records</h3>
-                    <p>
-                        DM Fizzi on Discord (slightlifizzi)
-                    </p>
-                    <h3>> Submission Requirements</h3>
-                    <p>
-                        When submitting your record, please ensure that it complies with the following guidelines:
-                    </p>
-                    <p>
-                        - Complete Playthrough
-                    </p>
-                    <p>
-                        - Cheat Indicator
-                    </p>
-                    <p>
-                        - End Stats
-                    </p>
-                    <p>
-                        - FPS/TPS Counter
-                    </p>
                 </div>
             </div>
         </main>
