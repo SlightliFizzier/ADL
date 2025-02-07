@@ -3,16 +3,10 @@
     "name": "Triple Six",
     "author": "Zylenox",
     "creators": [],
-    "verifier": "SilverDynamix",
-    "verification": "https://www.youtube.com/watch?v=qXL9W9zwF1o",
+    "verifier": "vitamin227",
+    "verification": "https://youtu.be/ntHJAHkuPKw?si=7fMtKovh142anVfE",
     "percentToQualify": 100,
     "password": "666666",
     "records": [
-        {
-            "user": "vitamin227",
-            "link": "https://youtu.be/ntHJAHkuPKw?si=7fMtKovh142anVfE",
-            "percent": 100,
-            "fps": 144
-        }
     ]
 }

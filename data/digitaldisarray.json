@@ -3,16 +3,10 @@
     "name": "Digital Disarray",
     "author": "Giron",
     "creators": [],
-    "verifier": "SilverDynamix",
-    "verification": "https://youtu.be/W_po6CK-iC8?si=RMLUiPn9YsRBiv4G",
+    "verifier": "vitamin227",
+    "verification": "https://youtu.be/2dxjcRk1Dzc?si=SIBEMytBl5y0UTrf",
     "percentToQualify": 100,
     "password": "854256",
     "records": [
-        {
-            "user": "vitamin227",
-            "link": "https://youtu.be/2dxjcRk1Dzc?si=SIBEMytBl5y0UTrf",
-            "percent": 100,
-            "fps": 144
-        }
     ]
 }

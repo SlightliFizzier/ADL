@@ -3,16 +3,10 @@
     "name": "Niflheim",
     "author": "Vismuth",
     "creators": [],
-    "verifier": "SilverDynamix",
-    "verification": "https://youtu.be/eJnxIAxN2Ic?si=suDJYlHrXoScr9tV",
+    "verifier": "vitamin227",
+    "verification": "https://youtu.be/O7hAoN8KP9Q?si=gXp3Sq6Zo11JqYoD",
     "percentToQualify": 100,
     "password": "008383",
     "records": [
-        {
-            "user": "vitamin227",
-            "link": "https://youtu.be/O7hAoN8KP9Q?si=gXp3Sq6Zo11JqYoD",
-            "percent": 100,
-            "fps": 144
-        }
     ]
 }

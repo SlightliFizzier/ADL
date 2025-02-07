@@ -3,16 +3,10 @@
     "name": "EKO",
     "author": "PureDinoMight",
     "creators": [],
-    "verifier": "SilverDynamix",
-    "verification": "https://www.youtube.com/watch?v=FtKFUJmJDOo",
+    "verifier": "SlightliFizzi",
+    "verification": "https://youtu.be/cr_QYXYInUw?si=HHek7Wqrdi5NcEIK",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "SlightliFizzi",
-            "link": "https://youtu.be/cr_QYXYInUw?si=HHek7Wqrdi5NcEIK",
-            "percent": 100,
-            "fps": 288
-        }
     ]
 }
