@@ -15,16 +15,16 @@
             "fps": 360
         },
         {
-            "user": "vitamin227",
-            "link": "https://youtu.be/ckhQJ5fSwsI?si=8_5GS_S2Rd5ehIi2",
-            "percent": 100,
-            "fps": 144
-        },
-        {
             "user": "Chubs Dubs",
             "link": "https://www.youtube.com/watch?v=R9QrOqnsKIU",
             "percent": 100,
             "fps": 60
+        },
+        {
+            "user": "vitamin227",
+            "link": "https://youtu.be/ckhQJ5fSwsI?si=8_5GS_S2Rd5ehIi2",
+            "percent": 100,
+            "fps": 144
         }
     ]
 }
