@@ -143,7 +143,6 @@ export default {
     data: () => ({
         list: [],
         editors: [],
-        supporters: [],
         loading: true,
         selected: 0,
         errors: [],
