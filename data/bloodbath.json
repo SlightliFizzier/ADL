@@ -9,6 +9,12 @@
     "password": "-",
     "records": [
         {
+            "user": "Chubs Dubs",
+            "link": "https://www.youtube.com/watch?v=d-rAYL86YX0",
+            "percent": 100,
+            "fps": 60
+        },
+        {
             "user": "JoKawuu",
             "link": "https://youtu.be/ttUlSmEkS9g?si=uUheYf21at023sgh",
             "percent": 100,
@@ -25,12 +31,6 @@
             "link": "https://youtu.be/IgTrsjqKxrY?si=4HMvjzszV25BDtIL",
             "percent": 100,
             "fps": 144
-        },
-        {
-            "user": "Chubs Dubs",
-            "link": "https://www.youtube.com/watch?v=d-rAYL86YX0",
-            "percent": 100,
-            "fps": 60
         },
         {
             "user": "Hynamite",
