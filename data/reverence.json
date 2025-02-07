@@ -9,16 +9,16 @@
     "password": "Free To Copy",
     "records": [
         {
-            "user": "Maya",
-            "link": "https://www.youtube.com/watch?v=ttUlSmEkS9g",
-            "percent": 100,
-            "fps": 240
-        },
-        {
             "user": "Chubs Dubs",
             "link": "https://www.youtube.com/watch?v=HoxkRuZEfgk",
             "percent": 100,
             "fps": 360
+        },
+        {
+            "user": "Maya",
+            "link": "https://www.youtube.com/watch?v=ttUlSmEkS9g",
+            "percent": 100,
+            "fps": 240
         }
     ]
 }
