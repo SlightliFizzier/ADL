@@ -15,6 +15,12 @@
             "fps": 144
         },
         {
+            "user": "Chubs Dubs",
+            "link": "https://www.youtube.com/watch?v=h8jGjyQ-_C4",
+            "percent": 100,
+            "fps": 360
+        },
+        {
             "user": "Tuunber",
             "link": "https://www.youtube.com/watch?v=krVhkj1H1Dg",
             "percent": 100,
@@ -25,12 +31,6 @@
             "link": "https://www.youtube.com/watch?v=nvKsaPpzhjM",
             "percent": 100,
             "fps": 273
-        },
-        {
-            "user": "Chubs Dubs",
-            "link": "https://www.youtube.com/watch?v=h8jGjyQ-_C4",
-            "percent": 100,
-            "fps": 360
         },
         {
             "user": "Hynamite",
