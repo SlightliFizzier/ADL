@@ -9,12 +9,6 @@
     "password": "001122",
     "records": [
         {
-            "user": "Lucky3Jumps",
-            "link": "https://www.youtube.com/watch?v=cBB3IZWczsc",
-            "percent": 100,
-            "fps": 360
-        },
-        {
             "user": "SlightliFizzi",
             "link": "https://www.youtube.com/watch?v=xGwyE5SscTs",
             "percent": 100,
@@ -23,12 +17,6 @@
         {
             "user": "vitamin227",
             "link": "https://www.youtube.com/watch?v=xGwyE5SscTs",
-            "percent": 100,
-            "fps": 360
-        },
-        {
-            "user": "SilverDynamix",
-            "link": "https://www.youtube.com/watch?v=ttUlSmEkS9g",
             "percent": 100,
             "fps": 360
         }

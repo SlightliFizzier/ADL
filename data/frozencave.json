@@ -8,11 +8,5 @@
     "percentToQualify": 100,
     "password": "060521",
     "records": [
-        {
-            "user": "Lucky3Jumps",
-            "link": "https://www.youtube.com/watch?v=XPwn1WfwySc",
-            "percent": 100,
-            "fps": 165
-        }
     ]
 }

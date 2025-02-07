@@ -15,22 +15,10 @@
             "fps": 300
         },
         {
-            "user": "Lucky3Jumps",
-            "link": "https://www.youtube.com/watch?v=qUC_A5-gF9c",
-            "percent": 100,
-            "fps": 60
-        },
-        {
             "user": "vitamin227",
             "link": "https://www.youtube.com/watch?v=cLcciBD2Ops",
             "percent": 100,
             "fps": 144
-        },
-        {
-            "user": "SilverDynamix",
-            "link": "https://www.youtube.com/watch?v=ttUlSmEkS9g",
-            "percent": 100,
-            "fps": 240
         }
     ]
 }
