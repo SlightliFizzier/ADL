@@ -8,18 +8,6 @@
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-         {
-            "user": "Ankyn",
-            "link": "https://www.youtube.com/watch?v=TfEy8YO5uyM",
-            "percent": 100,
-            "fps": 360
-        },
-         {
-            "user": "SilverDynamix",
-            "link": "https://www.youtube.com/watch?v=hjhAIrRi5oQ",
-            "percent": 100,
-            "fps": 360
-        },
         {
             "user": "vitamin227",
             "link": "https://www.youtube.com/watch?v=HjumIuTJeRg",
@@ -33,16 +21,10 @@
             "fps": 330
         },
         {
-            "user": "Opt1ss",
+            "user": "opt1ss",
             "link": "https://www.youtube.com/watch?v=nvKsaPpzhjM",
             "percent": 100,
             "fps": 273
-        },
-        {
-            "user": "Lucky3Jumps",
-            "link": "https://youtu.be/929izex3zj0?si=w7A-OEdzJz5MiPEX",
-            "percent": 100,
-            "fps": 165
         },
         {
             "user": "Chubs Dubs",

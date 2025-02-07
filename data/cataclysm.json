@@ -9,19 +9,13 @@
     "password": "666777",
     "records": [
         {
-            "user": "SilverDynamix",
-            "link": "https://www.youtube.com/watch?v=w6mIMWhb19A",
-            "percent": 100,
-            "fps": 60
-        },
-        {
             "user": "SlightliFizzi",
             "link": "https://www.youtube.com/watch?v=BBEa6_mEuG4",
             "percent": 100,
             "fps": 300
         },
         {
-            "user": "Opt1ss",
+            "user": "opt1ss",
             "link": "https://www.youtube.com/watch?v=Q247mYcwqw8",
             "percent": 100,
             "fps": 360
@@ -33,19 +27,7 @@
             "fps": 60
         },
         {
-            "user": "Lucky3Jumps",
-            "link": "https://www.youtube.com/watch?v=kb_br04YQRQ",
-            "percent": 100,
-            "fps": 165
-        },
-        {
             "user": "JoKawuu",
-            "link": "https://www.youtube.com/watch?v=ttUlSmEkS9g",
-            "percent": 100,
-            "fps": 360
-        },
-        {
-            "user": "Ankyn",
             "link": "https://www.youtube.com/watch?v=ttUlSmEkS9g",
             "percent": 100,
             "fps": 360
