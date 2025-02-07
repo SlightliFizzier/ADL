@@ -9,16 +9,16 @@
     "password": "Free To Copy",
     "records": [
         {
-            "user": "SlightliFizzi",
-            "link": "https://youtu.be/SjoD1Gs9ZaE?si=2a6ieC0IsE-Zxxbk",
-            "percent": 100,
-            "fps": 288
-        },
-        {
             "user": "Chubs Dubs",
             "link": "https://www.youtube.com/watch?v=q81rjU2b8XA",
             "percent": 100,
             "fps": 720
+        },
+        {
+            "user": "SlightliFizzi",
+            "link": "https://youtu.be/SjoD1Gs9ZaE?si=2a6ieC0IsE-Zxxbk",
+            "percent": 100,
+            "fps": 288
         },
         {
             "user": "Maya",
