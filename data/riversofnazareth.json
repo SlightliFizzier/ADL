@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "-",
     "records": [
+        {
+            "user": "Kofyy",
+            "link": "https://www.youtube.com/watch?v=ttUlSmEkS9g",
+            "percent": 100,
+            "fps": 240
+        }
     ]
 }
