@@ -9,6 +9,12 @@
     "password": "121296",
     "records": [
         {
+            "user": "Chubs Dubs",
+            "link": "https://www.youtube.com/watch?v=Qpf6_obiPZ0",
+            "percent": 100,
+            "fps": 60
+        },
+        {
             "user": "SlightliFizzi",
             "link": "https://www.youtube.com/watch?v=XzRNB-0btvQ",
             "percent": 100,
@@ -49,12 +55,6 @@
             "link": "https://youtu.be/rtjUAE224eM?si=YxT9qo8G1DhDIR2y",
             "percent": 100,
             "fps": 240
-        },
-        {
-            "user": "Chubs Dubs",
-            "link": "https://www.youtube.com/watch?v=Qpf6_obiPZ0",
-            "percent": 100,
-            "fps": 60
         }
     ]
 }
