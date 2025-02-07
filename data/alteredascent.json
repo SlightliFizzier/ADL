@@ -3,16 +3,12 @@
     "name": "Altered Ascent",
     "author": "Prism",
     "creators": [],
-    "verifier": "SilverDynamix",
-    "verification": "https://youtu.be/eGUNe4HUpnw?si=986qkVe0PHln5QkW",
+    "verifier": "Chubs Dubs",
+    "verification": "https://www.youtube.com/watch?v=fNAELsf28rQ",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
          {
-            "user": "Chubs Dubs",
-            "link": "https://www.youtube.com/watch?v=fNAELsf28rQ",
-            "percent": 100,
-            "fps": 720
         }
     ]
 }

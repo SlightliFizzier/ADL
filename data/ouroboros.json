@@ -3,16 +3,12 @@
     "name": "Ouroboros",
     "author": "ViPriN",
     "creators": [],
-    "verifier": "SilverDynamix",
-    "verification": "https://youtu.be/7hSNY67Tlwg?si=vx6N5fbJrtS7K9f4",
+    "verifier": "Chubs Dubs",
+    "verification": "https://www.youtube.com/watch?v=EaN2Wo0SxMM",
     "percentToQualify": 100,
     "password": "072619",
     "records": [
         {
-            "user": "Chubs Dubs",
-            "link": "https://www.youtube.com/watch?v=EaN2Wo0SxMM",
-            "percent": 100,
-            "fps": 360
         }
     ]
 }
