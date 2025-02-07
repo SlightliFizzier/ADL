@@ -8,11 +8,5 @@
     "percentToQualify": 100,
     "password": "789123",
     "records": [
-        {
-            "user": "SilverDynamix",
-            "link": "https://www.youtube.com/watch?v=IvIPB346I-s",
-            "percent": 100,
-            "fps": 360
-        }
     ]
 }
