@@ -3,20 +3,14 @@
     "name": "Erebus",
     "author": "BoldStep",
     "creators": [],
-    "verifier": "SilverDynamix",
-    "verification": "https://youtu.be/jLMT2zlyekw?si=6llaDc088wMgy-qU",
+    "verifier": "Chubs Dubs",
+    "verification": "https://www.youtube.com/watch?v=4tloI1IqO8Q",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
         {
             "user": "SlightliFizzi",
             "link": "https://youtu.be/BU_LXBO2MTg?si=EfZ40dWhNYt-du7P",
-            "percent": 100,
-            "fps": 288
-        },
-        {
-            "user": "Chubs Dubs",
-            "link": "https://www.youtube.com/watch?v=4tloI1IqO8Q",
             "percent": 100,
             "fps": 360
         }
