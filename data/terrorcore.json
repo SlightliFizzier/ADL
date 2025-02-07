@@ -3,16 +3,10 @@
     "name": "TerrorCore",
     "author": "Loogiah",
     "creators": [],
-    "verifier": "SilverDynamix",
-    "verification": "https://youtu.be/47D-hsqKRK8?si=n8b0T6NWFCBw78Dj",
+    "verifier": "SlightliFizzi",
+    "verification": "https://youtu.be/-QACqC1Z-wE?si=0f3hBsDEND2qZx_4",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "SlightliFizzi",
-            "link": "https://youtu.be/-QACqC1Z-wE?si=0f3hBsDEND2qZx_4",
-            "percent": 100,
-            "fps": 288
-        }
     ]
 }

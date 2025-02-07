@@ -3,16 +3,10 @@
     "name": "Neon Guts",
     "author": "doneitboye",
     "creators": [],
-    "verifier": "SilverDynamix",
-    "verification": "https://youtu.be/0RHjjwO3qtY?si=Z3dWBnch1qAL2xGh",
+    "verifier": "Maya",
+    "verification": "https://www.youtube.com/watch?v=ttUlSmEkS9g",
     "percentToQualify": 100,
     "password": "140104",
     "records": [
-        {
-            "user": "Maya",
-            "link": "https://www.youtube.com/watch?v=ttUlSmEkS9g",
-            "percent": 100,
-            "fps": 240
-        }
     ]
 }

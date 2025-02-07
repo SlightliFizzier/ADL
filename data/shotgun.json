@@ -3,16 +3,10 @@
     "name": "Shotgun",
     "author": "SpinStudios",
     "creators": [],
-    "verifier": "SilverDynamix",
-    "verification": "https://youtu.be/r5Pgf7ucyvM?si=Opc6TLqNXKXfKkuF",
+    "verifier": "SlightliFizzi",
+    "verification": "https://youtu.be/zuDQisa-1-c?si=uo4rvPUmSgHKF6hN",
     "percentToQualify": 100,
     "password": "159753",
     "records": [
-        {
-            "user": "SlightliFizzi",
-            "link": "https://youtu.be/zuDQisa-1-c?si=uo4rvPUmSgHKF6hN",
-            "percent": 100,
-            "fps": 288
-        }
     ]
 }

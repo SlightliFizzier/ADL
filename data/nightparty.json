@@ -3,16 +3,10 @@
     "name": "night party",
     "author": "Rlol",
     "creators": [],
-    "verifier": "SilverDynamix",
-    "verification": "https://youtu.be/VOoGO5TpfgM?si=unENpVxSh_LQKlwJ",
+    "verifier": "vitamin227",
+    "verification": "https://youtu.be/kxswFz9QPRE?si=UpCGrUbuC-OYl6vZ",
     "percentToQualify": 100,
     "password": "111111",
     "records": [
-        {
-            "user": "vitamin227",
-            "link": "https://youtu.be/kxswFz9QPRE?si=UpCGrUbuC-OYl6vZ",
-            "percent": 100,
-            "fps": 144
-        }
     ]
 }

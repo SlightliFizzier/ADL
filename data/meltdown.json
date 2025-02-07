@@ -3,16 +3,10 @@
     "name": "MELTDOWN",
     "author": "Darwin",
     "creators": [],
-    "verifier": "SilverDynamix",
-    "verification": "https://youtu.be/4FFtBgF50SI?si=6Yw6Z8ps6aTmIdIA",
+    "verifier": "vitamin227",
+    "verification": "https://youtu.be/mIM0vlxU1Hw?si=oRUA5S-o89Xk-lpD",
     "percentToQualify": 100,
     "password": "425069",
     "records": [
-        {
-            "user": "vitamin227",
-            "link": "https://youtu.be/mIM0vlxU1Hw?si=oRUA5S-o89Xk-lpD",
-            "percent": 100,
-            "fps": 144
-        }
     ]
 }

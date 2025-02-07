@@ -3,16 +3,10 @@
     "name": "Ferrum Frenzy",
     "author": "Xinpa",
     "creators": [],
-    "verifier": "SilverDynamix",
-    "verification": "https://youtu.be/W5BUEMHCgDU?si=0_ouKdrrwqoOkRGr",
+    "verifier": "SlightliFizzi",
+    "verification": "https://youtu.be/FU5mPNc0AF4?si=krtytS5bPTN77gcf",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "SlightliFizzi",
-            "link": "https://youtu.be/FU5mPNc0AF4?si=krtytS5bPTN77gcf",
-            "percent": 100,
-            "fps": 288
-        }
     ]
 }

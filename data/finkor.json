@@ -3,16 +3,10 @@
     "name": "FinKor",
     "author": "Mulpan",
     "creators": [],
-    "verifier": "SilverDynamix",
-    "verification": "https://youtu.be/F4u4HqmA-Dg?si=hi-htEtwnG_h0fyx",
+    "verifier": "vitamin227",
+    "verification": "https://youtu.be/nPyci4RbNSY",
     "percentToQualify": 100,
     "password": "100000",
     "records": [
-        {
-            "user": "vitamin227",
-            "link": "https://youtu.be/nPyci4RbNSY",
-            "percent": 100,
-            "fps": 144
-        }
     ]
 }

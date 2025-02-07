@@ -3,22 +3,10 @@
     "name": "Uprise",
     "author": "Blad3M",
     "creators": [],
-    "verifier": "SilverDynamix",
-    "verification": "https://youtu.be/Q8dHjrjic-I?si=TIiQNxB65zwhEuBa",
+    "verifier": "vitamin227",
+    "verification": "https://youtu.be/1ZVUuP3q5_k?si=Eu9xzF3skmuCFjpz",
     "percentToQualify": 100,
     "password": "-",
     "records": [
-        {
-            "user": "vitamin227",
-            "link": "https://youtu.be/1ZVUuP3q5_k?si=Eu9xzF3skmuCFjpz",
-            "percent": 100,
-            "fps": 144
-        },
-        {
-            "user": "Lucky3Jumps",
-            "link": "https://youtu.be/CpiiYEHPn3Q?si=tRtNgD_YhSwKE7Jv",
-            "percent": 100,
-            "fps": 165
-        }
     ]
 }
