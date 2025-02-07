@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=1VtOTM-UPOQ",
             "percent": 100,
             "fps": 360
+        },
+        {
+            "user": "Maya",
+            "link": "https://www.youtube.com/watch?v=ttUlSmEkS9g",
+            "percent": 100,
+            "fps": 240
         }
     ]
 }
