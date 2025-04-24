@@ -3,10 +3,16 @@
     "name": "Warning",
     "author": "TwisterDude161",
     "creators": [],
-    "verifier": "Maya",
-    "verification": "https://www.youtube.com/watch?v=ttUlSmEkS9g",
+    "verifier": "SlightliFizzi",
+    "verification": "https://www.youtube.com/watch?v=8Fz4p1Lsoaw",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Maya",
+            "link": "https://www.youtube.com/watch?v=ttUlSmEkS9g",
+            "percent": 100,
+            "fps": 240
+        }
     ]
 }
