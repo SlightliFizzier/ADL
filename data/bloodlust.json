@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "121296",
     "records": [
+        {
+            "user": "vitamin227",
+            "link": "https://www.youtube.com/watch?v=BXFq4pimTH4",
+            "percent": 100,
+            "fps": 288
+        },
     ]
 }
