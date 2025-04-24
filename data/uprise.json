@@ -6,7 +6,19 @@
     "verifier": "vitamin227",
     "verification": "https://youtu.be/1ZVUuP3q5_k?si=Eu9xzF3skmuCFjpz",
     "percentToQualify": 100,
-    "password": "-",
+    "password": "Free To Copy",
     "records": [
+        {
+            "user": "SlightliFizzi",
+            "link": "https://www.youtube.com/watch?v=N60fzNAl3Go",
+            "percent": 100,
+            "fps": 240
+        },
+        {
+            "user": "Chubs Dubs",
+            "link": "https://www.youtube.com/watch?v=LFpMpFc9fjE",
+            "percent": 100,
+            "fps": 360
+        }
     ]
 }
