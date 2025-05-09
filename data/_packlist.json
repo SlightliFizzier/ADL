@@ -8,5 +8,40 @@
         "name": "The RGB",
         "levels": ["yatagarasu","erebusboldstep","sonicwave"],
         "colour": "#d6880c"
+    },
+    {
+        "name": "Nine Circles Pack I",
+        "levels": ["downbass","astrophobia","hatefulreflection","tenthcircle"],
+        "colour": "#d6880c"
+    },
+    {
+        "name": "Nine Circles Pack II",
+        "levels": ["hyperparadox","mujigae","auditorybreaker"],
+        "colour": "#d6880c"
+    },
+    {
+        "name": "Nine Circles Pack III",
+        "levels": ["balenguvortex","genericwave","moltencore"],
+        "colour": "#d6880c"
+    },
+    {
+        "name": "Nine Circles Pack IV",
+        "levels": ["hyperparacosm","sonicwave","sonicwaverebirth"],
+        "colour": "#d6880c"
+    },
+    {
+        "name": "Nine Circles Pack V",
+        "levels": ["cosmiccyclone","arcticlights","aquaticauroras","aerialgleam"],
+        "colour": "#d6880c"
+    },
+    {
+        "name": "The Sonic Waves",
+        "levels": ["sonicwave","sonicwaverebirth","auditorybreaker","genericwave"],
+        "colour": "#d6880c"
+    },
+    {
+        "name": "KrmaL Pack",
+        "levels": ["fallingup","blackblizzard","phobos","xo"],
+        "colour": "#d6880c"
     }
 ]
