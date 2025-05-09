@@ -43,5 +43,40 @@
         "name": "KrmaL Pack",
         "levels": ["fallingup","blackblizzard","phobos","xo"],
         "colour": "#d6880c"
+    },
+    {
+        "name": "Tuunber Pack",
+        "levels": ["allegiance","acu","cataclysm"],
+        "colour": "#d6880c"
+    },
+    {
+        "name": "Frost Pack",
+        "levels": ["sonicwave","aftermath","dolos"],
+        "colour": "#d6880c"
+    },
+    {
+        "name": "Kofyy Pack",
+        "levels": ["ineverdream","cupid","riversofnazareth"],
+        "colour": "#d6880c"
+    },
+    {
+        "name": "vitamin Pack",
+        "levels": ["zettabyte","headlock","manix"],
+        "colour": "#d6880c"
+    },
+    {
+        "name": "Fizzi Pack",
+        "levels": ["irisofapuppeteer","pumpedupkicks","tapwreck"],
+        "colour": "#d6880c"
+    },
+     {
+        "name": "Technology Trilogy",
+        "levels": ["artificialascent","digitaldescent","cyberneticcrescent"],
+        "colour": "#d6880c"
+    },
+    {
+        "name": "Chubs Pack",
+        "levels": ["congregation","ellipsism","ouroboros"],
+        "colour": "#d6880c"
     }
 ]
