@@ -41,7 +41,7 @@
     },
     {
         "name": "KrmaL Pack",
-        "levels": ["fallingup","blackblizzard","phobos","xo"],
+        "levels": ["fallingup","blackblizzard","phobos","xo","elitezrebirth"],
         "colour": "#d6880c"
     },
     {
@@ -56,7 +56,7 @@
     },
     {
         "name": "Kofyy Pack",
-        "levels": ["ineverdream","cupid","riversofnazareth"],
+        "levels": ["ineverdream","cupid","maybepossiblything"],
         "colour": "#d6880c"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
         "name": "Fizzi Pack",
-        "levels": ["irisofapuppeteer","pumpedupkicks","tapwreck"],
+        "levels": ["irisofapuppeteer","deogen","alcatraz"],
         "colour": "#d6880c"
     },
      {
@@ -76,7 +76,7 @@
     },
     {
         "name": "Chubs Pack",
-        "levels": ["congregation","ellipsism","ouroboros"],
+        "levels": ["congregation","ellipsism","quantumprocessing"],
         "colour": "#d6880c"
     }
 ]
