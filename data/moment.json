@@ -5,7 +5,6 @@
     "creators": [],
     "verifier": "JoKawuu",
     "verification": "https://youtu.be/kwfWvA8zGGU?si=MYce5KU9tdPskW5e",
-
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
@@ -14,6 +13,12 @@
             "link": "https://youtu.be/onzuepLORZI?si=eQ2EEv-iTGHE3xkK",
             "percent": 100,
             "fps": 240
+        },
+        {
+            "user": "Chubs Dubs",
+            "link": "https://www.youtube.com/watch?v=jAKBQcT3elA",
+            "percent": 100,
+            "fps": 480
         }
     ]
 }
