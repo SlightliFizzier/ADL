@@ -3,17 +3,11 @@
     "name": "Clarity",
     "author": "Hypno",
     "creators": [],
-    "verifier": "Maya",
-    "verification": "https://youtu.be/junOKmBFYj8?si=8qIDhd3-C4UWrPO8",
+    "verifier": "SlightliFizzi",
+    "verification": "https://youtu.be/JJubFfde8LU?si=7d7TDAV-nJRE6DSA",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "SlightliFizzi",
-            "link": "https://youtu.be/JJubFfde8LU?si=7d7TDAV-nJRE6DSA",
-            "percent": 100,
-            "fps": 240
-        },
         {
             "user": "vitamin227",
             "link": "https://www.youtube.com/watch?v=ttUlSmEkS9g",
@@ -21,4 +15,5 @@
             "fps": 288
         }
     ]
+
 }
