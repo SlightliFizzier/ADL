@@ -8,11 +8,5 @@
     "percentToQualify": 100,
     "password": "150606",
     "records": [
-        {
-            "user": "Maya",
-            "link": "https://www.youtube.com/watch?v=ttUlSmEkS9g",
-            "percent": 100,
-            "fps": 240
-        }
     ]
 }
