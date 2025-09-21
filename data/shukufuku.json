@@ -3,17 +3,12 @@
     "name": "Shukufuku",
     "author": "Joker179114",
     "creators": [],
-    "verifier": "Maya",
-    "verification": "https://www.youtube.com/watch?v=ttUlSmEkS9g",
+    "verifier": "SlightliFizzi",
+    "verification": "https://www.youtube.com/watch?v=q53-akg1b8I",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "SlightliFizzi",
-            "link": "https://www.youtube.com/watch?v=q53-akg1b8I",
-            "percent": 100,
-            "fps": 240
-        }
     ]
 
 }
+
