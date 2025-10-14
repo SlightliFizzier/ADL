@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "idk but please play this level its so fun and cool and awesome",
     "records": [
+                {
+            "user": "SlightliFizzi",
+            "link": "https://youtu.be/nfw6kkPGOPA",
+            "percent": 100,
+            "fps": 240
+        }
     ]
 }
