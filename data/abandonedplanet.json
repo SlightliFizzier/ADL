@@ -1,0 +1,18 @@
+{
+    "id": 46249401,
+    "name": "Abandoned Planet",
+    "author": "Metalface221",
+    "creators": [],
+    "verifier": "vitamin227",
+    "verification": "https://www.youtube.com/watch?v=x-YxjvBTntE",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Chubs Dubs",
+            "link": "https://www.youtube.com/watch?v=xnDgbU3Zt2g",
+            "percent": 100,
+            "fps": 240
+        },
+    ]
+}
