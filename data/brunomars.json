@@ -1,0 +1,24 @@
+{
+    "id": 88159604,
+    "name": "Bruno Mars",
+    "author": "SouljaBoyCrankD",
+    "creators": [],
+    "verifier": "vitamin227",
+    "verification": "https://www.youtube.com/watch?v=OTUQzOrhKeY",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+      {
+            "user": "SlightliFizzi",
+            "link": "https://www.youtube.com/watch?v=E8pPshHmrkE",
+            "percent": 100,
+            "fps": 480
+        },
+        {
+            "user": "Chubs Dubs",
+            "link": "https://www.youtube.com/watch?v=DYoYDpLOCi8",
+            "percent": 100,
+            "fps": 240
+        }
+    ]
+}
