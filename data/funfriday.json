@@ -1,0 +1,30 @@
+{
+    "id": 127135884,
+    "name": "Fun Friday",
+    "author": "Zeronium",
+    "creators": [],
+    "verifier": "JoKawuu",
+    "verification": "https://www.youtube.com/watch?v=OgKZ_KRsDcc",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "SlightliFizzi",
+            "link": "https://www.youtube.com/watch?v=WWilTOZ2BYc",
+            "percent": 100,
+            "fps": 480
+        },
+      {
+            "user": "vitamin227",
+            "link": "https://www.youtube.com/watch?v=CPRh8Ho9Vj8",
+            "percent": 100,
+            "fps": 288
+        },
+      {
+            "user": "Chubs Dubs",
+            "link": "https://www.youtube.com/watch?v=lbwWEgpMxSw",
+            "percent": 100,
+            "fps": 240
+        },
+    ]
+}
